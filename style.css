@@ -84,6 +84,9 @@ section header hr {
 section article {
   display: flex;
   justify-content: space-between;
+}
+
+section article div {
   margin-top: 10px;
 }
 
@@ -102,7 +105,11 @@ section article ul li::before {
 }
 
 /* utils */
-.ez {
+.cheat {
+  /* margin-top: 0; */
+}
+
+u, .ez {
   user-select: all;
 }
 
