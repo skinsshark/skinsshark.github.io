@@ -1,0 +1,125 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+	font-family: 'Wide';
+	src: url("./Wide.ttf") format('truetype');
+}
+
+h1, h2 {
+  font-family: 'Wide';
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 20px;
+  padding-right: 10px;
+  margin: 30px 0 0;
+}
+
+h1 span {
+  display: block;
+}
+
+h3, h4, p, ul, li {
+  font-family: 'Work Sans';
+  font-size: 12px;
+  margin: 0;
+}
+
+h3, h4 {
+  display: inline-block;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-style: bold;
+}
+
+body {
+  display: flex;
+  margin: 40px 0;
+  justify-content: center;
+}
+
+.container {
+  width: 600px;
+}
+
+header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+header article {
+  text-align: right;
+}
+
+header article ul,
+header article ul li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+section header {
+  display: flex;
+  align-items: baseline;
+}
+
+section header hr {
+  flex-grow: 1;
+  border: 1px solid #000;
+  margin: 0;
+}
+
+section article {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+section article .dates h3 {
+  text-transform: none;
+}
+
+section article ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+section article ul li::before {
+  content: '- ';
+}
+
+/* utils */
+.ez {
+  user-select: all;
+}
+
+.rule-breaker {
+  text-transform: none;
+}
+
+@media only screen and (max-width: 767px) {
+  html {
+    padding: 30px;
+  }
+
+  html::before {
+    content: 'Desktop experience 0nly for now- last updated Nov 2019';
+  }
+
+  body {
+    display: none;
+  }
+}
