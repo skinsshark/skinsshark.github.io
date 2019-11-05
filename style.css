@@ -18,6 +18,14 @@ h1 {
   font-size: 35px;
 }
 
+.spread {
+  position: fixed;
+  top: 0;
+  left: 5px;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
 h2 {
   font-size: 20px;
   padding-right: 10px;
@@ -41,6 +49,7 @@ h3, h4 {
 h3 {
   text-transform: uppercase;
   font-style: bold;
+  margin-bottom: 5px;
 }
 
 body {
@@ -73,6 +82,7 @@ header article ul li {
 section header {
   display: flex;
   align-items: baseline;
+  margin-bottom: 15px;
 }
 
 section header hr {
@@ -86,8 +96,8 @@ section article {
   justify-content: space-between;
 }
 
-section article div {
-  margin-top: 10px;
+section section {
+  margin-bottom: 30px;
 }
 
 section article .dates h3 {
@@ -123,10 +133,11 @@ u, .ez {
   }
 
   html::before {
-    content: 'Desktop experience 0nly for now- last updated Nov 2019';
+    content: 'Desktop experience 0nly for now';
+    padding: 50px;
   }
 
-  body {
+  .container {
     display: none;
   }
 }
