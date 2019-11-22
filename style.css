@@ -8,6 +8,14 @@
 	src: url("./fonts/Main.ttf") format('truetype');
 }
 
+::selection {
+  background: #ff0;
+}
+
+::-moz-selection {
+  background: #ff0;
+}
+
 * {
   box-sizing: border-box;
 }
