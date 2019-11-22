@@ -9,11 +9,11 @@
 }
 
 ::selection {
-  background: #ff0;
+  background: #fff;
 }
 
 ::-moz-selection {
-  background: #ff0;
+  background: #fff;
 }
 
 * {
