@@ -11,6 +11,12 @@
   height: 80vh;
 }
 
+@media only screen and (max-width: 767px) {
+  .fold {
+    height: 50vh;
+  }
+}
+
 .fold-after {
   position: absolute;
   transform-origin: top center;
