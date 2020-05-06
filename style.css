@@ -145,3 +145,14 @@ section ul {
     border-bottom: 2px solid #fff;
   }
 }
+
+footer {
+	margin: 100px 0 200px;
+	min-height: 300px;
+}
+
+@media only screen and (max-width: 767px) {
+	footer {
+		min-height: 100px;
+	}
+}
