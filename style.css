@@ -72,6 +72,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
+	word-spacing: 28px;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -139,6 +140,10 @@ section ul {
   br {
     display: block;
   }
+
+	h1 {
+		word-spacing: 18px;
+	}
 
   h1 span {
     padding-bottom: 2px;
