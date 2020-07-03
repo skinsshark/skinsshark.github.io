@@ -416,5 +416,12 @@
 	}
 	window.addEventListener('resize', calcValues)
 	calcValues()
+
+	setTimeout(() => {
+		const didConfirm = confirm("I've moved to https://sharonzheng.club/ Wanna go there instead?");
+		if (didConfirm) {
+	    window.location.href = "https://sharonzheng.club/";
+	  }
+	}, 2000)
 	</script>
 </html>
