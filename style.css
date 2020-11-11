@@ -1,11 +1,15 @@
+:root {
+  --main-bg-color: #1700c7;
+}
+
 ::selection {
   background: rgba(255, 255, 255, 0.99);
-  color: #1700c7;
+  color: var(--main-bg-color);
 }
 
 ::-moz-selection {
   background: rgba(255, 255, 255, 0.99);
-  color: #1700c7;
+  color: var(--main-bg-color);
 }
 
 * {
@@ -16,7 +20,7 @@ body {
   font-size: 2rem;
   padding: 30px;
   font-family: 'Main', sans-serif;
-  background-color: #1700c7;
+  background-color: var(--main-bg-color);
   color: #fff;
 }
 
