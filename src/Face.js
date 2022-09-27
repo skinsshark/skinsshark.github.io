@@ -282,7 +282,7 @@ function Face() {
 
         <footer>
           <a
-            href="./files/Resume-Sharon_Zheng.pdf"
+            href="https://drive.google.com/file/d/1xVoUFY164g3bh-2nKuJ_k3JcYntWvHYd/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer">
             PDF Version (last updated: Aug 2020)
