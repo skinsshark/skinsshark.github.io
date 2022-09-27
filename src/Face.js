@@ -12,12 +12,20 @@ function Face() {
           <ul>
             <li>Front End Engineer — React Native @ Meta</li>
             <li>sharzheng@gmail.com</li>
-            <li>
+            {/* <li>
               <a
                 href="https://github.com/skinsshark"
                 target="_blank"
                 rel="noopener noreferrer">
                 github.com/skinsshark
+              </a>
+            </li> */}
+            <li>
+              <a
+                href="https://twitter.com/szssszss"
+                target="_blank"
+                rel="noopener noreferrer">
+                twitter.com/szssszss
               </a>
             </li>
           </ul>
@@ -40,9 +48,7 @@ function Face() {
             <article>
               <ul>
                 <li>[TBA] &mdash; An experimental mobile browser experience</li>
-                <li>
-                  [WIP]{' '}
-                  <a
+                <li><a
                     href="https://inner-self-portrait.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer">
@@ -50,7 +56,7 @@ function Face() {
                   </a>{' '}
                   &mdash; Inspired by a creative workshop by{' '}
                   <a
-                    href="https://www.instagram.com/facebookopenarts/"
+                    href="https://www.instagram.com/metaopenarts/"
                     target="_blank"
                     rel="noopener noreferrer">
                     Open Arts
@@ -65,7 +71,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://social-distance-this-for.me"
+                    href="https://social-distance-online.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer">
                     Social Distance This for Me
@@ -75,7 +81,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://sharonzheng.com/kwaterloo"
+                    href="https://skinsshark.github.io/kwaterloo"
                     target="_blank"
                     rel="noopener noreferrer">
                     Kitchener/Waterloo Guide
@@ -85,7 +91,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://sharonzheng.com/cny2020"
+                    href="https://skinsshark.github.io/cny2020"
                     target="_blank"
                     rel="noopener noreferrer">
                     Chinese Zodiac
@@ -94,7 +100,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://sharonzheng.com/london-2019"
+                    href="https://skinsshark.github.io/london-2019"
                     target="_blank"
                     rel="noopener noreferrer">
                     Sharon London Tour (2019)
@@ -121,7 +127,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://sharonzheng.com/tachi"
+                    href="https://skinsshark.github.io/tachi"
                     target="_blank"
                     rel="noopener noreferrer">
                     Tachi
@@ -130,7 +136,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://sharonzheng.com/winyc"
+                    href="https://skinsshark.github.io/winyc"
                     target="_blank"
                     rel="noopener noreferrer">
                     When in NYC
