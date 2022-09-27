@@ -194,7 +194,7 @@ function Face() {
                 href="https://sunday-desert.github.io/"
                 target="_blank"
                 rel="noopener noreferrer">
-                sundaydesert.com
+                sunday-desert.github.io
               </a>
             </h3>
             <div className="dates">
