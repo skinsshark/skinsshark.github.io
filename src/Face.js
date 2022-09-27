@@ -47,7 +47,15 @@ function Face() {
             </div>
             <article>
               <ul>
-                <li>[TBA] &mdash; An experimental mobile browser experience</li>
+                <li>
+                  <a
+                    href="https://the-offisse.com/"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    The Offisse
+                  </a>{' '}
+                  &mdash; High end fashion inspired by The Office (US)
+                </li>
                 <li><a
                     href="https://inner-self-portrait.vercel.app/"
                     target="_blank"
@@ -81,13 +89,30 @@ function Face() {
                 </li>
                 <li>
                   <a
+                    href="https://skinsshark.github.io/london-2019"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    London
+                  </a>,{' '}
+                  <a
                     href="https://skinsshark.github.io/kwaterloo"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Kitchener/Waterloo Guide
-                  </a>{' '}
-                  &mdash; A summary of my favorite places in the town I went to
-                  University
+                    Kitchener/Waterloo
+                  </a>,{' '}
+                  <a
+                    href="https://skinsshark.github.io/see-attle"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    Seattle
+                  </a>,{' '}
+                  <a
+                    href="https://skinsshark.github.io/winyc"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    New York City
+                  </a>{' Guides '}
+                  &mdash; A short list of my favorite places in the towns I have lived
                 </li>
                 <li>
                   <a
@@ -100,15 +125,6 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://skinsshark.github.io/london-2019"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Sharon London Tour (2019)
-                  </a>{' '}
-                  &mdash; London UK city guide
-                </li>
-                <li>
-                  <a
                     href="https://www.instagram.com/a/r/?effect_id=2969821319757901"
                     target="_blank"
                     rel="noopener noreferrer">
@@ -118,31 +134,12 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://the-offisse.com/"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    The Offisse
-                  </a>{' '}
-                  &mdash; High end fashion inspired by The Office (US)
-                </li>
-                <li>
-                  <a
                     href="https://skinsshark.github.io/tachi"
                     target="_blank"
                     rel="noopener noreferrer">
                     Tachi
                   </a>{' '}
                   &mdash; Photo gallery of a small omakase experience in Toronto
-                </li>
-                <li>
-                  <a
-                    href="https://skinsshark.github.io/winyc"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    When in NYC
-                  </a>{' '}
-                  &mdash; A friend asked for recommendations, this is what they
-                  got
                 </li>
                 <li>
                   <a
@@ -163,7 +160,8 @@ function Face() {
                   &mdash; Chrome extension to make course selection research
                   more efficient
                 </li>
-                <li>Many more as private repos...</li>
+                <li>[TBA] &mdash; An experimental mobile browser experience</li>
+                <li>Many more private repos...</li>
               </ul>
             </article>
           </section>
@@ -175,15 +173,7 @@ function Face() {
             </div>
             <ul>
               <li>
-                Highlights &mdash;{' '}
-                <a
-                  href="https://viv.co"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Vitals in View
-                </a>{' '}
-                &{' '}
-                <a
+                Highlight &mdash;{' '}<a
                   href="https://esther-cheung.com/"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -201,7 +191,7 @@ function Face() {
             <h3>
               Co-founder/Software Developer &mdash; <br />
               <a
-                href="https://sundaydesert.com"
+                href="https://sunday-desert.github.io/"
                 target="_blank"
                 rel="noopener noreferrer">
                 sundaydesert.com
@@ -281,7 +271,7 @@ function Face() {
           <section>
             <div>
               <p>
-                Visiting modern art museums, Olafur Eliasson's "Din blinde
+                Visiting contemporary art museums, Olafur Eliasson's "Din blinde
                 passage (Your blind passenger)", cross stitching, boxing, hot
                 yoga, trying to guess your zodiac sign, thinking of joining a
                 gym, furniture shopping, white tea, and black coffee
