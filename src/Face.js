@@ -22,10 +22,10 @@ function Face() {
             </li> */}
             <li>
               <a
-                href="https://twitter.com/szssszss"
+                href="https://twitter.com/skinsshark"
                 target="_blank"
                 rel="noopener noreferrer">
-                twitter.com/szssszss
+                twitter.com/skinsshark
               </a>
             </li>
           </ul>
