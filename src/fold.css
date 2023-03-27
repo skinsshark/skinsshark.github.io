@@ -55,3 +55,13 @@
 	transform-origin: bottom center;
 	transform: rotateX(-90deg);
 }
+
+@media only screen and (max-width: 767px) {
+  .fold-bottom {
+    transform: rotateX(140deg);
+  }
+
+  .fold-top {
+    transform: rotateX(-140deg);
+  }
+}
