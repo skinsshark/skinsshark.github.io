@@ -22,10 +22,10 @@ function Face() {
             </li> */}
             <li>
               <a
-                href="https://twitter.com/skinsshark"
+                href="https://instagram.com/sharon"
                 target="_blank"
                 rel="noopener noreferrer">
-                twitter.com/skinsshark
+                instagram.com/sharon
               </a>
             </li>
           </ul>
@@ -38,7 +38,7 @@ function Face() {
           <section>
             <div>
               <h3>
-                Curated Collection of Websites and Other Things &mdash; <br />
+                Shortlist &mdash; <br />
                 <i>Independent work I've created for fun</i>
               </h3>
             </div>
@@ -56,7 +56,16 @@ function Face() {
                   </a>{' '}
                   &mdash; High end fashion inspired by The Office (US)
                 </li>
-                <li><a
+                <li>
+                  <a
+                    href="https://skinsshark.github.io/tachi"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    Tachi
+                  </a>{' '}
+                  &mdash; Photo gallery of a small omakase experience in Toronto
+                </li>
+                {/* <li><a
                     href="https://inner-self-portrait.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer">
@@ -76,7 +85,7 @@ function Face() {
                     rel="noopener noreferrer">
                     Stefanie Posavec
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="https://social-distance-online.vercel.app"
@@ -123,7 +132,7 @@ function Face() {
                   </a>{' '}
                   &mdash; Which Chinese zodiac animal are you?
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="https://www.instagram.com/a/r/?effect_id=2969821319757901"
                     target="_blank"
@@ -131,16 +140,7 @@ function Face() {
                     Fruit Sha La
                   </a>{' '}
                   &mdash; An Instagram face filter with over 75,000 impressions
-                </li>
-                <li>
-                  <a
-                    href="https://skinsshark.github.io/tachi"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Tachi
-                  </a>{' '}
-                  &mdash; Photo gallery of a small omakase experience in Toronto
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="https://medium.com/@sharonzheng"
@@ -150,7 +150,7 @@ function Face() {
                   </a>{' '}
                   &mdash; Medium articles of various topics
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="https://github.com/skinsshark/waterflow"
                     target="_blank"
@@ -159,7 +159,7 @@ function Face() {
                   </a>{' '}
                   &mdash; Chrome extension to make course selection research
                   more efficient
-                </li>
+                </li> */}
                 <li>[TBA] &mdash; An experimental mobile browser experience</li>
                 <li>Many more private repos...</li>
               </ul>
@@ -272,7 +272,7 @@ function Face() {
             <div>
               <p>
                 Visiting contemporary art museums, Olafur Eliasson's "Din blinde
-                passage (Your blind passenger)", cross stitching, boxing, hot
+                passage (Your blind passenger)", pattern drafting, reformer pilates, hot
                 yoga, trying to guess your zodiac sign, thinking of joining a
                 gym, furniture shopping, white tea, and black coffee
               </p>
