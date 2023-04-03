@@ -16,6 +16,29 @@
   box-sizing: border-box;
 }
 
+nav {
+  position: fixed;
+  background-color: red;
+  width: 70vw;
+  top: 15vw;
+  left: 15vw;
+  z-index: 999;
+  padding: 1vw 2vw;
+}
+
+nav::selection {
+  background: rgba(255, 255, 255, 0.99);
+  color: red
+}
+
+nav::-moz-selection {
+  background: rgba(255, 255, 255, 0.99);
+  color: red;
+}
+
+a {pointer-events:none;}
+.all {cursor: not-allowed;}
+
 body {
   font-size: 2rem;
   padding: 30px;

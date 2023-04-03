@@ -32,31 +32,37 @@ function App() {
   }, []);
 
   return (
-    <div className="all">
-      <div className="wrapper-3d">
-        <div className="fold fold-top">
-          <div className="fold-align">
-            <div className="fold-content">
-              <Face />
+    <>
+      <nav>
+        Hello, so excited you've stopped by—the site is undergoing some quick renovations at the moment,
+        please check back later and links will be clickable again~ see you soon!
+      </nav>
+      <div className="all">
+        <div className="wrapper-3d">
+          <div className="fold fold-top">
+            <div className="fold-align">
+              <div className="fold-content">
+                <Face />
+              </div>
             </div>
           </div>
-        </div>
-        <div className="fold fold-center" id="center-fold">
-          <div className="fold-align">
-            <div className="fold-content" id="center-content">
-              <Face />
+          <div className="fold fold-center" id="center-fold">
+            <div className="fold-align">
+              <div className="fold-content" id="center-content">
+                <Face />
+              </div>
             </div>
           </div>
-        </div>
-        <div className="fold fold-bottom">
-          <div className="fold-align">
-            <div className="fold-content">
-              <Face />
+          <div className="fold fold-bottom">
+            <div className="fold-align">
+              <div className="fold-content">
+                <Face />
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
 
