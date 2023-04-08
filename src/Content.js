@@ -100,7 +100,7 @@ function Face() {
                 </li>
                 {/* <li>[TBA] &mdash; An experimental mobile browser experience</li>
                 <li>Many more private repos...</li> */}
-                <li className="wip">
+                <li><sup>WIP</sup>
                   <a
                     href="https://skinsshark.github.io/yeet-hay"
                     target="_blank"
@@ -199,21 +199,9 @@ function Face() {
           <h2>Archive</h2>
           <hr />
 
-          <div>
-            <h3>
-              Full list available on{' '}
-              <a
-                href="https://github.com/skinsshark/skinsshark.github.io/blob/master/README.md"
-                target="_blank"
-                rel="noopener noreferrer">
-                GitHub
-              </a>
-            </h3>
-          </div>
-
           <article>
             <ul>
-              <li>[2020]{' '}
+              <li><sup>2020</sup>
                 <a
                   href="https://social-distance-online.vercel.app"
                   target="_blank"
@@ -223,12 +211,11 @@ function Face() {
                 &mdash; Easy-to-add script for your website so we can get the
                 internet to social distance too
               </li>
-              <li>
-                [2020] Just the Tip
+              <li><sup>2020</sup>Just the Tip
                 &mdash; A tip calculating Messenger bot for those embarrassed to pull out the
                 calculator app at the restaurant table
               </li>
-              <li>[2020] <a
+              <li><sup>2020</sup><a
                   href="https://inner-self-portrait.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -249,8 +236,7 @@ function Face() {
                   Stefanie Posavec
                 </a>
               </li>
-              <li>
-                [2019] "Fruit Sha La"
+              <li><sup>2019</sup>"Fruit Sha La"
                 &mdash; An Instagram face filter with over 75,000 impressions
               </li>
               {/* <li>
@@ -276,8 +262,7 @@ function Face() {
                 </a>{' '}
                 &mdash; Amazon Echo Skill where Alexa says "bless you" when you sneeze, if you tell Alexa that you sneezed
               </li> */}
-              <li>[2018]{' '}
-                <a
+              <li><sup>2018</sup><a
                   href="https://iloveyouandyoulove.me"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -301,8 +286,7 @@ function Face() {
                   Huji Cam
                 </a> and playing with loading animations
               </li> */}
-              <li>[2017]{' '}
-                <a
+              <li><sup>2017</sup><a
                   href="https://github.com/skinsshark/waterflow"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -310,8 +294,7 @@ function Face() {
                 </a>{' '}
                 &mdash; Chrome extension to streamline course selection at the University of Waterloo
               </li>
-              <li>[2017]{' '}
-                <a
+              <li><sup>2017</sup><a
                   href="https://sunday-desert.github.io/holiday-swim"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -326,8 +309,7 @@ function Face() {
                   Inspired others to create fun internet experiences
                 </a>
               </li>
-              <li>[2016]{' '}
-                <a
+              <li><sup>2016</sup><a
                   href="https://skinsshark.github.io/the-sea"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -373,6 +355,18 @@ function Face() {
               </li> */}
             </ul>
           </article>
+
+          <div>
+            <p>
+              Full list available on{' '}
+              <a
+                href="https://github.com/skinsshark/skinsshark.github.io/blob/master/README.md"
+                target="_blank"
+                rel="noopener noreferrer">
+                GitHub
+              </a>
+            </p>
+          </div>
         </section>
 
         <section>
@@ -492,6 +486,16 @@ function Face() {
           </a> */}
           <p>☆</p>
           <p>Happy to chat, reach out!</p>
+          <ul>
+            <li><a
+            href="https://venmo.com/sharzheng"
+            target="_blank"
+            rel="noopener noreferrer">Venmo</a></li>
+            <li><a
+            href="https://linkedin.com/in/zhengsharon"
+            target="_blank"
+            rel="noopener noreferrer">LinkedIn</a></li>
+          </ul>
         </footer>
       </div>
     </>

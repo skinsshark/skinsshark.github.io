@@ -110,13 +110,18 @@ ul li {
 	margin-left: -15px;
 }
 
-ul li::before {
-	content: '■ ';
+section ul li {
+  margin-bottom: 20px;
 }
 
-ul li.wip::before {
-  content: '■ [WIP] ';
+ul li sup {
+  margin-right: 5px;
+  font-size: 0.6em;
 }
+
+/* ul li::before {
+	content: '■ ';
+} */
 
 section, header {
   margin-bottom: 50px;
@@ -126,7 +131,7 @@ section ul {
   margin-top: 10px;
 }
 
-section.smaller {
+.smaller {
   font-size: 0.8em;
 }
 
@@ -155,12 +160,12 @@ section.smaller {
 
 footer {
 	margin: 100px 0 200px;
-	min-height: 300px;
+	padding-bottom: 300px;
 }
 
 @media only screen and (max-width: 767px) {
 	footer {
-		min-height: 100px;
+		padding-bottom: 100px;
 	}
 }
 
