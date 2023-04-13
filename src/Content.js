@@ -38,6 +38,16 @@ function Face() {
           <section>
             <article>
               <ul>
+                <li><sup>WIP</sup>
+                  <a
+                    href="https://skinsshark.github.io/yeet-hay"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    Yeet Hay or Yeet Nay?
+                  </a>{' '}
+                  &mdash; Bringing analog to digital in a new zine reading format. I designed it in Toronto,
+                  riso-printed in Seattle, shot in San Francisco
+                </li>
                 <li>
                   <a
                     href="https://the-offisse.com/"
@@ -98,102 +108,10 @@ function Face() {
                   </a>{' '}
                   &mdash; Photo gallery of a small omakase experience in Toronto
                 </li>
-                {/* <li>[TBA] &mdash; An experimental mobile browser experience</li>
-                <li>Many more private repos...</li> */}
-                <li><sup>WIP</sup>
-                  <a
-                    href="https://skinsshark.github.io/yeet-hay"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Yeet Hay or Yeet Nay?
-                  </a>{' '}
-                  &mdash; Bringing analog to digital in a new zine reading format. I designed it in Toronto,
-                  riso-printed in Seattle, shot in San Francisco
-                </li>
               </ul>
             </article>
           </section>
-
-          {/* <section>
-            <h3>Freelance Web Developer</h3>
-            <div className="dates">
-              <h4>Jun 2018-2020</h4>
-            </div>
-            <ul>
-              <li>
-                Highlight &mdash;{' '}<a
-                  href="https://esther-cheung.com/"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  esther-cheung.com
-                </a>
-              </li>
-              <li>
-                Worked with clients to discuss design and develop a plan to meet
-                goals and objectives using Trello and Contentful CMS
-              </li>
-            </ul>
-          </section> */}
-
-          {/* <section>
-            <h3>
-              Co-founder/Software Developer &mdash; <br />
-              <a
-                href="https://sunday-desert.github.io/"
-                target="_blank"
-                rel="noopener noreferrer">
-                sunday-desert.github.io
-              </a>
-            </h3>
-            <div className="dates">
-              <h4>Aug 2017-2018</h4>
-            </div>
-            <ul>
-              <li>
-                Founded studio to create interactive art using different
-                languages, frameworks and libraries
-              </li>
-              <li>
-                Collaborated with partner on design and worked independently on
-                development
-              </li>
-              <li>
-                Projects such as{' '}
-                <a
-                  href="https://iloveyouandyoulove.me"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  ILY&YLM
-                </a>
-              </li>
-            </ul>
-          </section> */}
         </section>
-        {/* <section>
-          <h2>Previous Work Experience</h2>
-          <hr />
-
-          <article>
-            <ul>
-              <li>
-                Facebook, London &mdash; <br />
-                <i>Front End Engineering Intern</i> (Sept-Dec 2019)
-              </li>
-              <li>
-                Facebook, New York &mdash; <br />{' '}
-                <i>Front End Engineering Intern</i> (Sept-Dec 2018)
-              </li>
-              <li>
-                Lyft, Seattle &mdash; <br />
-                <i>Software Engineer Intern</i> (Jan-Apr 2018)
-              </li>
-              <li>
-                Apple, Sunnyvale &mdash; <br />
-                <i>Software Engineer Intern</i> (May-Aug 2017)
-              </li>
-            </ul>
-          </article>
-        </section> */}
 
         <section>
           <h2>Archive</h2>
@@ -239,29 +157,6 @@ function Face() {
               <li><sup>2019</sup>"Fruit Sha La"
                 &mdash; An Instagram face filter with over 75,000 impressions
               </li>
-              {/* <li>
-                [2019] DIY String Lights
-                &mdash; How to build battery powered string lights using LEDs and other electrical components
-              </li> */}
-              {/* <li>
-                [2019]{' '}
-                <a
-                  href="https://skinsshark.github.io/thank-you"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Thank You
-                </a>{' '}
-                &mdash; Drawing my favorite shopping bags in Illustrator
-              </li> */}
-              {/* <li>[2018]{' '}
-                <a
-                  href="https://github.com/skinsshark/Blessed"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Blessed
-                </a>{' '}
-                &mdash; Amazon Echo Skill where Alexa says "bless you" when you sneeze, if you tell Alexa that you sneezed
-              </li> */}
               <li><sup>2018</sup><a
                   href="https://iloveyouandyoulove.me"
                   target="_blank"
@@ -270,22 +165,6 @@ function Face() {
                 </a>{' '}
                 &mdash; Valentine's Day project to send all your lovers e-cards
               </li>
-              {/* <li>[2018]{' '}
-                <a
-                  href="https://skinsshark.github.io/shuji"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Shuji
-                </a>{' '}
-                &mdash; Photos of my shoes using{' '}
-                <a
-                  href="https://apps.apple.com/us/app/huji-cam/id781383622"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Huji Cam
-                </a> and playing with loading animations
-              </li> */}
               <li><sup>2017</sup><a
                   href="https://github.com/skinsshark/waterflow"
                   target="_blank"
@@ -317,42 +196,6 @@ function Face() {
                 </a>{' '}
                 &mdash; Designed this project around learning React
               </li>
-              {/* <li>[2016]{' '}
-                <a
-                  href="https://skinsshark.github.io/backgrounds/"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Backgrounds
-                </a>{' '}
-                &mdash; Learning how to use AngularJS by creating a showcase of wallpapers
-              </li> */}
-              {/* <li>[2016]{' '}
-                <a
-                  href="https://devpost.com/software/mhacks8-f1azed"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Anomia
-                </a>{' '}
-                &mdash; Remember some lyrics but can't recall the tune of the song? This Alexa skill will help you find the song. Winner of MHacks8
-              </li> */}
-              {/* <li>[2015]{' '}
-                <a
-                  href="https://github.com/skinsshark/six-times"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Six Times
-                </a>{' '}
-                &mdash; High school art thesis (woodworking and robotics)
-              </li> */}
-              {/* <li>[2013-2015]{' '}
-                <a
-                  href="https://exoticlayouts.tumblr.com/"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  exoticlayouts
-                </a>{' '}
-                &mdash; A collection of Tumblr themes available for public use and the start of my web journey
-              </li> */}
             </ul>
           </article>
 
@@ -386,81 +229,6 @@ function Face() {
           </article>
         </section>
 
-
-
-        {/* <section>
-          <h2>Other Activities/Local Shoutouts</h2>
-          <hr />
-
-          <article>
-            <ul>
-              <li>
-                <a
-                  href="https://www.strava.com/athletes/113686272"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Strava
-                </a>{' '}
-                &mdash; I run for utility, not for fun
-              </li>
-              <li>
-                <a
-                  href="https://social-distance-online.vercel.app"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Letterboxd{' '}
-                </a>
-                &mdash; Recent cinephile,{' '}
-                <a
-                  href="https://social-distance-online.vercel.app"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  SFFilm
-                </a> volunteer, previously{' '}
-                <a
-                  href="https://www.festival-cannes.com/en/participer/accredit"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  3 Days in Cannes
-                </a> attendee,{' '}
-                <a
-                  href="https://www.festival-cannes.com/en/participer/accredit"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Roxie
-                </a> member
-              </li>
-              <li>
-                <a
-                  href="https://skinsshark.github.io/cny2020"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Invisalign
-                </a>{' '}
-                &mdash; Reach out if you'd like my referral link and we can both get 100$
-              </li>
-              <li>
-                <a
-                  href="https://medium.com/@sharonzheng"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Duolingo
-                </a>{' '}
-                &mdash; 250 day streak (live updates)
-              </li>
-              <li>
-                <a
-                  href="https://medium.com/@sharonzheng"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Duolingo
-                </a>{' '}
-                &mdash; 250 day streak (live updates)
-              </li>
-            </ul>
-          </article>
-        </section> */}
-
         <section>
           <h2>Things I Like</h2>
           <hr />
@@ -468,10 +236,18 @@ function Face() {
           <article>
             <div>
               <p>
-                Visiting contemporary art museums, Olafur Eliasson's "Din blinde
-                passage (Your blind passenger)", pattern drafting, reformer pilates, hot
-                yoga, trying to guess your zodiac sign, thinking about joining a
-                gym, furniture shopping, white tea, and black coffee
+                Visiting contemporary art museums, volunteering around the city (currently
+                at <a href="https://sffilm.org/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  SFFilm
+                </a>), giving generous ratings
+                on <a href="https://letterboxd.com/szszs/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Letterboxd
+                </a>, pattern drafting, reformer pilates, running for utility but not fun,
+                trying to guess your zodiac sign, furniture shopping, white tea, and black coffee
               </p>
             </div>
           </article>
