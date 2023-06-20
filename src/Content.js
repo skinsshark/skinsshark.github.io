@@ -213,6 +213,36 @@ function Face() {
         </section>
 
         <section>
+          <h2>Work Experience</h2>
+          <hr />
+
+          <article>
+            <ul className="tight">
+              <li>
+                Meta, San Francisco &mdash; <br />
+                <i>Front End Engineer</i>
+              </li>
+              <li><sup>2019</sup>
+                Facebook, London &mdash; <br />
+                <i>Front End Engineering Intern</i>
+              </li>
+              <li><sup>2018</sup>
+                Facebook, New York &mdash; <br />{' '}
+                <i>Front End Engineering Intern</i>
+              </li>
+              <li><sup>2018</sup>
+                Lyft, Seattle &mdash; <br />
+                <i>Software Engineer Intern</i>
+              </li>
+              <li><sup>2017</sup>
+                Apple, Sunnyvale &mdash; <br />
+                <i>Software Engineer Intern</i>
+              </li>
+            </ul>
+          </article>
+        </section>
+
+        <section>
           <h2>Education</h2>
           <hr />
 
@@ -222,9 +252,6 @@ function Face() {
                 Bachelor of Applied Science, Computer Engineering&mdash; <br />
                 University of Waterloo
               </h3>
-            </div>
-            <div className="dates">
-              <h4>Apr 2020</h4>
             </div>
           </article>
         </section>
@@ -237,10 +264,10 @@ function Face() {
             <div>
               <p>
                 Visiting contemporary art museums, volunteering around the city (currently
-                at <a href="https://sffilm.org/"
+                at <a href="http://www.adobebooks.com/"
                   target="_blank"
                   rel="noopener noreferrer">
-                  SFFilm
+                  Adobe Books
                 </a>), giving generous ratings
                 on <a href="https://letterboxd.com/szszs/"
                   target="_blank"

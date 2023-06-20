@@ -114,6 +114,10 @@ section ul li {
   margin-bottom: 20px;
 }
 
+section ul.tight li {
+  margin-bottom: 10px;
+}
+
 ul li sup {
   margin-right: 5px;
   font-size: 0.6em;
