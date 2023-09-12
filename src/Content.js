@@ -10,21 +10,16 @@ function Face() {
       <div className="container">
         <article>
           <ul>
-            <li>Front End Engineer — React Native @ Meta</li>
+            <li>
+              Front End Engineer — Making art in the digital and print worlds
+            </li>
             <li>sharzheng@gmail.com</li>
-            {/* <li>
-              <a
-                href="https://github.com/skinsshark"
-                target="_blank"
-                rel="noopener noreferrer">
-                github.com/skinsshark
-              </a>
-            </li> */}
             <li>
               <a
                 href="https://instagram.com/sharon"
                 target="_blank"
-                rel="noopener noreferrer">
+                rel="noopener noreferrer"
+              >
                 instagram.com/sharon
               </a>
             </li>
@@ -34,68 +29,64 @@ function Face() {
         <section>
           <h2>Project Shortlist</h2>
           <hr />
-
+          {/* <sup>WIP</sup> */}
           <section>
             <article>
               <ul>
-                <li><sup>WIP</sup>
+                <li>
                   <a
                     href="https://skinsshark.github.io/yeet-hay"
                     target="_blank"
-                    rel="noopener noreferrer">
+                    rel="noopener noreferrer"
+                  >
                     Yeet Hay or Yeet Nay?
                   </a>{' '}
-                  &mdash; Bringing analog to digital in a new zine reading format. I designed it in Toronto,
-                  riso-printed in Seattle, shot in San Francisco
+                  &mdash; Bringing analog to digital in a new reading format.
+                  Riso-printed zine, available at{' '}
+                  <a
+                    href="https://www.printedmatter.org/catalog/artist/38590"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Printed Matter
+                  </a>
                 </li>
                 <li>
                   <a
                     href="https://the-offisse.com/"
                     target="_blank"
-                    rel="noopener noreferrer">
+                    rel="noopener noreferrer"
+                  >
                     The Offisse
                   </a>{' '}
-                  &mdash; High end fashion inspired by The Office (US)
+                  &mdash; High-end fashion inspired by The Office (US)
                 </li>
                 <li>
                   <a
                     href="https://skinsshark.github.io/kwaterloo"
                     target="_blank"
-                    rel="noopener noreferrer">
+                    rel="noopener noreferrer"
+                  >
                     Kitchener/Waterloo
-                  </a>,{' '}
-                  <a
-                    href="https://skinsshark.github.io/see-attle"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Seattle
-                  </a>,{' '}
-                  <a
-                    href="https://skinsshark.github.io/winyc"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    New York City
-                  </a>,{' '}
-                  <a
-                    href="https://skinsshark.github.io/london-2019"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    London
                   </a>{' '}
-                  &mdash; City guides for some towns I have lived in, Bay Area edition coming soon
+                  &mdash; Commemorating my college experience with a list of
+                  favorite places around town
                 </li>
                 <li>
                   <a
                     href="https://skinsshark.github.io/cny2020"
                     target="_blank"
-                    rel="noopener noreferrer">
+                    rel="noopener noreferrer"
+                  >
                     Chinese Zodiac
                   </a>{' '}
-                  &mdash; Which Chinese zodiac animal are you? Created for New Years 2020, wrote about the process on {' '}
+                  &mdash; Which Chinese zodiac animal are you? Created for New
+                  Years 2020, wrote about the process on{' '}
                   <a
                     href="https://medium.com/@sharonzheng/how-i-built-my-chinese-new-year-project-34b9d8115f99"
                     target="_blank"
-                    rel="noopener noreferrer">
+                    rel="noopener noreferrer"
+                  >
                     A How-To Guide for the Modern World
                   </a>
                 </li>
@@ -103,7 +94,8 @@ function Face() {
                   <a
                     href="https://skinsshark.github.io/tachi"
                     target="_blank"
-                    rel="noopener noreferrer">
+                    rel="noopener noreferrer"
+                  >
                     Tachi
                   </a>{' '}
                   &mdash; Photo gallery of a small omakase experience in Toronto
@@ -119,79 +111,134 @@ function Face() {
 
           <article>
             <ul>
-              <li><sup>2020</sup>
+              <li>
+                <sup>2023</sup>
+                <a
+                  href="https://pokemon-eat.vercel.app"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Pokémon Eat
+                </a>{' '}
+                &mdash; Meal planning for Snorlax using your ingredients in
+                Pokemon Sleep. Offline mode available
+              </li>
+              <li>
+                <sup>2020</sup>
                 <a
                   href="https://social-distance-online.vercel.app"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Social Distance This for Me
                 </a>{' '}
                 &mdash; Easy-to-add script for your website so we can get the
                 internet to social distance too
               </li>
-              <li><sup>2020</sup>Just the Tip
-                &mdash; A tip calculating Messenger bot for those embarrassed to pull out the
-                calculator app at the restaurant table
-              </li>
-              <li><sup>2020</sup><a
+              <li>
+                <sup>2020</sup>
+                <a
                   href="https://inner-self-portrait.vercel.app/"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Inner Self Portrait
                 </a>{' '}
                 &mdash; Inspired by a creative workshop by{' '}
                 <a
                   href="https://www.instagram.com/metaopenarts/"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Open Arts
                 </a>{' '}
                 and{' '}
                 <a
                   href="https://www.stefanieposavec.com"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Stefanie Posavec
                 </a>
               </li>
-              <li><sup>2019</sup>"Fruit Sha La"
-                &mdash; An Instagram face filter with over 75,000 impressions
+              <li>
+                <sup>2019</sup>
+                <a
+                  href="https://skinsshark.github.io/see-attle"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Seattle
+                </a>
+                ,{' '}
+                <a
+                  href="https://skinsshark.github.io/winyc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  New York City
+                </a>
+                ,{' '}
+                <a
+                  href="https://skinsshark.github.io/london-2019"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  London
+                </a>{' '}
+                &mdash; City guides for towns I have lived in, Bay Area edition
+                in the works
               </li>
-              <li><sup>2018</sup><a
+              <li>
+                <sup>2018</sup>
+                <a
                   href="https://iloveyouandyoulove.me"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   ILYYLM (I Love You, You Love Me)
                 </a>{' '}
-                &mdash; Valentine's Day project to send all your lovers e-cards
+                &mdash; Valentine's Day project to send e-cards to all your
+                lovers
               </li>
-              <li><sup>2017</sup><a
+              <li>
+                <sup>2017</sup>
+                <a
                   href="https://github.com/skinsshark/waterflow"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Waterflow
                 </a>{' '}
-                &mdash; Chrome extension to streamline course selection at the University of Waterloo
+                &mdash; Chrome extension to streamline course selection at the
+                University of Waterloo
               </li>
-              <li><sup>2017</sup><a
+              <li>
+                <sup>2017</sup>
+                <a
                   href="https://sunday-desert.github.io/holiday-swim"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Holiday Swim
                 </a>{' '}
-                &mdash; Generated phone wallpapers featuring the fish from The Illustrated Encyclopedia of
-                Fish launched the previous year.{' '}
+                &mdash; Generated phone wallpapers featuring the fish from The
+                Illustrated Encyclopedia of Fish launched the previous year.{' '}
                 <a
                   href="https://leviv.cool/projects/2022/01/30/All-I-want-for-christmas.html"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Inspired others to create fun internet experiences
                 </a>
               </li>
-              <li><sup>2016</sup><a
+              <li>
+                <sup>2016</sup>
+                <a
                   href="https://skinsshark.github.io/the-sea"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   The Illustrated Encyclopedia of Fish
                 </a>{' '}
                 &mdash; Designed this project around learning React
@@ -205,7 +252,8 @@ function Face() {
               <a
                 href="https://github.com/skinsshark/skinsshark.github.io/blob/master/README.md"
                 target="_blank"
-                rel="noopener noreferrer">
+                rel="noopener noreferrer"
+              >
                 GitHub
               </a>
             </p>
@@ -219,24 +267,24 @@ function Face() {
           <article>
             <ul className="tight">
               <li>
-                Meta, San Francisco &mdash; <br />
-                <i>Front End Engineer</i>
+                <sup>2020</sup>
+                Meta, San Francisco &mdash; <i>Front End Engineer</i>
               </li>
-              <li><sup>2019</sup>
-                Facebook, London &mdash; <br />
-                <i>Front End Engineering Intern</i>
+              <li>
+                <sup>2019</sup>
+                Facebook, London &mdash; <i>Front End Engineering Intern</i>
               </li>
-              <li><sup>2018</sup>
-                Facebook, New York &mdash; <br />{' '}
-                <i>Front End Engineering Intern</i>
+              <li>
+                <sup>2018</sup>
+                Facebook, New York &mdash; <i>Front End Engineering Intern</i>
               </li>
-              <li><sup>2018</sup>
-                Lyft, Seattle &mdash; <br />
-                <i>Software Engineer Intern</i>
+              <li>
+                <sup>2018</sup>
+                Lyft, Seattle &mdash; <i>Software Engineer Intern</i>
               </li>
-              <li><sup>2017</sup>
-                Apple, Sunnyvale &mdash; <br />
-                <i>Software Engineer Intern</i>
+              <li>
+                <sup>2017</sup>
+                Apple, Sunnyvale &mdash; <i>Software Engineer Intern</i>
               </li>
             </ul>
           </article>
@@ -263,18 +311,25 @@ function Face() {
           <article>
             <div>
               <p>
-                Visiting contemporary art museums, volunteering around the city (currently
-                at <a href="http://www.adobebooks.com/"
+                Visiting contemporary art museums, volunteering around the city
+                (currently at{' '}
+                <a
+                  href="http://www.adobebooks.com/"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Adobe Books
-                </a>), giving generous ratings
-                on <a href="https://letterboxd.com/szszs/"
+                </a>
+                ), giving generous ratings on{' '}
+                <a
+                  href="https://letterboxd.com/szszs/"
                   target="_blank"
-                  rel="noopener noreferrer">
+                  rel="noopener noreferrer"
+                >
                   Letterboxd
-                </a>, pattern drafting, reformer pilates, running for utility but not fun,
-                trying to guess your zodiac sign, furniture shopping, white tea, and black coffee
+                </a>
+                , running for utility but not for fun, trying to guess your
+                zodiac sign, furniture shopping, white tea, and black coffee
               </p>
             </div>
           </article>
@@ -290,14 +345,34 @@ function Face() {
           <p>☆</p>
           <p>Happy to chat, reach out!</p>
           <ul>
-            <li><a
-            href="https://venmo.com/sharzheng"
-            target="_blank"
-            rel="noopener noreferrer">Venmo</a></li>
-            <li><a
-            href="https://linkedin.com/in/zhengsharon"
-            target="_blank"
-            rel="noopener noreferrer">LinkedIn</a></li>
+            <li>
+              <a
+                href="https://venmo.com/sharzheng"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Venmo
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://linkedin.com/in/zhengsharon"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LinkedIn
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://drive.google.com/file/d/1jtW0F_e-e2bxj-aX2VfaW-6sCopHl2_X/view"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Resume
+              </a>{' '}
+              (Last Updated: July 2023)
+            </li>
           </ul>
         </footer>
       </div>
