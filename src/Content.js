@@ -29,7 +29,6 @@ function Face() {
         <section>
           <h2>Project Shortlist</h2>
           <hr />
-          {/* <sup>WIP</sup> */}
           <section>
             <article>
               <ul>
@@ -42,7 +41,7 @@ function Face() {
                     Yeet Hay or Yeet Nay?
                   </a>{' '}
                   &mdash; Bringing analog to digital in a new reading format.
-                  Riso-printed zine, available at{' '}
+                  Riso-printed zine available at{' '}
                   <a
                     href="https://www.printedmatter.org/catalog/artist/38590"
                     target="_blank"
@@ -74,24 +73,6 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://skinsshark.github.io/cny2020"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Chinese Zodiac
-                  </a>{' '}
-                  &mdash; Which Chinese zodiac animal are you? Created for New
-                  Years 2020, wrote about the process on{' '}
-                  <a
-                    href="https://medium.com/@sharonzheng/how-i-built-my-chinese-new-year-project-34b9d8115f99"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    A How-To Guide for the Modern World
-                  </a>
-                </li>
-                <li>
-                  <a
                     href="https://skinsshark.github.io/tachi"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -99,6 +80,11 @@ function Face() {
                     Tachi
                   </a>{' '}
                   &mdash; Photo gallery of a small omakase experience in Toronto
+                </li>
+                <li>
+                  <sup>WIP</sup>
+                  <span className="secret-link">Back Browser</span> &mdash; An
+                  experimental mobile browser experience
                 </li>
               </ul>
             </article>
@@ -134,32 +120,6 @@ function Face() {
                 </a>{' '}
                 &mdash; Easy-to-add script for your website so we can get the
                 internet to social distance too
-              </li>
-              <li>
-                <sup>2020</sup>
-                <a
-                  href="https://inner-self-portrait.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Inner Self Portrait
-                </a>{' '}
-                &mdash; Inspired by a creative workshop by{' '}
-                <a
-                  href="https://www.instagram.com/metaopenarts/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Open Arts
-                </a>{' '}
-                and{' '}
-                <a
-                  href="https://www.stefanieposavec.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Stefanie Posavec
-                </a>
               </li>
               <li>
                 <sup>2019</sup>
@@ -231,17 +191,6 @@ function Face() {
                 >
                   Inspired others to create fun internet experiences
                 </a>
-              </li>
-              <li>
-                <sup>2016</sup>
-                <a
-                  href="https://skinsshark.github.io/the-sea"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  The Illustrated Encyclopedia of Fish
-                </a>{' '}
-                &mdash; Designed this project around learning React
               </li>
             </ul>
           </article>
