@@ -152,6 +152,18 @@ function Face() {
               <li>
                 <sup>2018</sup>
                 <a
+                  href="https://medium.com/@sharonzheng"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  A How-to Guide For the Modern World
+                </a>{' '}
+                &mdash; Articles on Medium covering a range of topics, including
+                my design process, technical project tutorials, and my dad
+              </li>
+              <li>
+                <sup>2018</sup>
+                <a
                   href="https://iloveyouandyoulove.me"
                   target="_blank"
                   rel="noopener noreferrer"
