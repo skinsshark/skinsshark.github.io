@@ -37,7 +37,7 @@ body {
 
 .secret-link {
   cursor: grabbing;
-  text-decoration: underline;
+  text-decoration: line-through;
 }
 
 a,
