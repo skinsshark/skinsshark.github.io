@@ -43,7 +43,7 @@ function Face() {
                   &mdash; Bringing analog to digital in a new reading format.
                   Riso-printed zine available at{' '}
                   <a
-                    href="https://www.printedmatter.org/catalog/artist/38590"
+                    href="https://www.printedmatter.org/catalog/publisher/17545"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -228,16 +228,18 @@ function Face() {
           <article>
             <ul className="tight">
               <li>
-                <sup>2020</sup>
-                Meta, San Francisco &mdash; <i>Front End Engineer</i>
-              </li>
-              <li>
-                <sup>2019</sup>
-                Facebook, London &mdash; <i>Front End Engineering Intern</i>
+                <sup>2023</sup>
+                  <a
+                  href="https://tome.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >
+                    Magical Tome
+                  </a>, San Francisco &mdash; <i>Front End Engineer</i>
               </li>
               <li>
                 <sup>2018</sup>
-                Facebook, New York &mdash; <i>Front End Engineering Intern</i>
+                Meta, San Francisco/New York/London &mdash; <i>Front End Engineer</i>
               </li>
               <li>
                 <sup>2018</sup>
