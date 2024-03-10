@@ -229,13 +229,7 @@ function Face() {
             <ul className="tight">
               <li>
                 <sup>2023</sup>
-                  <a
-                  href="https://tome.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  >
-                    Magical Tome
-                  </a>, San Francisco &mdash; <i>Front End Engineer</i>
+                Magical Tome, San Francisco &mdash; <i>Front End Engineer</i>
               </li>
               <li>
                 <sup>2018</sup>
