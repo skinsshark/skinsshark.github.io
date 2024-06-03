@@ -11,7 +11,7 @@ function Face() {
         <article>
           <ul>
             <li>
-              Front End Engineer — Making art in the digital and print worlds
+              Creative Technologist — Making art in the digital and print worlds
             </li>
             <li>sharzheng@gmail.com</li>
             <li>
@@ -32,6 +32,26 @@ function Face() {
           <section>
             <article>
               <ul>
+                <li>
+                  <a
+                    href="https://www.instagram.com/sharon/p/C3buCtirDOl/?img_index=1"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    How to Play Mahjong
+                  </a>{' '}
+                  &mdash; An instruction manual on the traditional Chinese game
+                  of Mahjong as taught to me by my family. Hosted multiple
+                  community events, including at{' '}
+                  <a
+                    href="https://sfdesignweek.org/event/mahjong-the-intersections-of-tradition-community-and-craft"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    San Francisco Design Week
+                  </a>
+                  . Stockists announcing soon, DM for inquiries
+                </li>
                 <li>
                   <a
                     href="https://skinsshark.github.io/yeet-hay"
@@ -233,7 +253,8 @@ function Face() {
               </li>
               <li>
                 <sup>2018</sup>
-                Meta, San Francisco/New York/London &mdash; <i>Front End Engineer</i>
+                Meta, San Francisco/New York/London &mdash;{' '}
+                <i>Front End Engineer</i>
               </li>
               <li>
                 <sup>2018</sup>
@@ -285,8 +306,9 @@ function Face() {
                 >
                   Letterboxd
                 </a>
-                , running for utility but not for fun, trying to guess your
-                zodiac sign, furniture shopping, white tea, and black coffee
+                , hosting Mahjong events around the city, running for utility
+                but not for fun, trying to guess your zodiac sign, furniture
+                shopping, white tea, and black coffee
               </p>
             </div>
           </article>
