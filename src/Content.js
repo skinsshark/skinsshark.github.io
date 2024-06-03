@@ -40,8 +40,8 @@ function Face() {
                   >
                     How to Play Mahjong
                   </a>{' '}
-                  &mdash; An instruction manual on the traditional Chinese game
-                  of Mahjong as taught to me by my family. Hosted multiple
+                  &mdash; An instruction manual about the traditional Chinese
+                  game of Mahjong as taught to me by my family. Hosted multiple
                   community events, including at{' '}
                   <a
                     href="https://sfdesignweek.org/event/mahjong-the-intersections-of-tradition-community-and-craft"
