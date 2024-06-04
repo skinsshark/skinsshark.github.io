@@ -306,9 +306,8 @@ function Face() {
                 >
                   Letterboxd
                 </a>
-                , hosting Mahjong events around the city, running for utility
-                but not for fun, trying to guess your zodiac sign, furniture
-                shopping, white tea, and black coffee
+                , running for utility but not for fun, trying to guess your
+                zodiac sign, furniture shopping, white tea, and black coffee
               </p>
             </div>
           </article>
