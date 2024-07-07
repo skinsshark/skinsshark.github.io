@@ -103,8 +103,7 @@ function Face() {
                 </li>
                 <li>
                   <sup>WIP</sup>
-                  <span className="secret-link">Back Browser</span> &mdash; An
-                  experimental mobile browser experience
+                  <span className="secret-link">UR-AURA</span> &mdash; Your energy, colorized
                 </li>
               </ul>
             </article>
