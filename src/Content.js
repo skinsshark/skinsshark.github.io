@@ -50,7 +50,13 @@ function Face() {
                   >
                     San Francisco Design Week
                   </a>
-                  . Stockists announcing soon, DM for inquiries
+                  . Limited edition stickers available <a
+                    href="https://sharonxsherman.myshopify.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    here
+                  </a>
                 </li>
                 <li>
                   <a
