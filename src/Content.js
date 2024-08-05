@@ -108,8 +108,8 @@ function Face() {
                   &mdash; Photo gallery of a small omakase experience in Toronto
                 </li>
                 <li>
-                  <sup>WIP</sup>
-                  <span className="secret-link">UR-AURA</span> &mdash; Your energy, colorized
+                  <sup>SOON!</sup>
+                  <span className="secret-link">UR–AURA</span> &mdash; Your energy, colorized
                 </li>
               </ul>
             </article>
@@ -244,6 +244,93 @@ function Face() {
               </a>
             </p>
           </div>
+        </section>
+
+        <section>
+          <h2>In-Person Events</h2>
+          <hr />
+          <section>
+            <article>
+              <ul>
+                <li><sup>NEW!</sup>
+                  August 24, 2024 &mdash; The Intersection of Art and Technology with <a
+                    href="https://www.imempowa.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Ash Herr</a> at <a
+                    href="https://www.archive.org/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Internet Archive</a>
+                </li>
+                <li>
+                  July 29, 2024 &mdash; Mahj' & Collage with <a
+                    href="https://instagram.com/ourmutualfriendsf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Our Mutual Friend SF</a> and <a
+                    href="https://www.themahjongproject.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >The Mahjong Project</a> at <a
+                    href="https://shop.sportsbasement.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Sports Basement</a>
+                </li>
+                <li>
+                  July 20, 2024 &mdash; UR–AURA Launch Event at <a
+                    href="https://www.dogpatchhub.org/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >The Dogpatch Hub</a> with <a
+                    href="https://sfartbookfair.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >SF Art Book Fair</a>
+                </li>
+                <li>
+                  June 8, 2024 &mdash; MAHJONG: The Intersections of Tradition, Community, and Craft for <a
+                    href="https://sfdesignweek.org/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >SF Design Week</a> at <a
+                    href="https://cclarkgallery.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Catharine Clark Gallery</a>
+                </li>
+                <li>
+                  May 4, 2024 &mdash; Community Mahjong + Guide Restock at <a
+                    href="https://www.shopnikoniko.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Nikoniko Gifts</a>
+                </li>
+                <li>
+                  March 28, 2024 &mdash; Mahjong Night at <a
+                    href="https://landtoseanyc.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Land to Sea NYC</a>
+                </li>
+                <li>
+                  March 23, 2024 &mdash; Mahjong Night in Chinatown with <a
+                    href="https://www.instagram.com/unit.270/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Unit 270</a> in Toronto
+                </li>
+                <li>
+                  March 10, 2024 &mdash; Mahjong Afternoon at <a
+                    href="https://gardencreamery.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Garden Creamery</a>
+                </li>
+              </ul>
+            </article>
+          </section>
         </section>
 
         <section>
