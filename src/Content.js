@@ -34,6 +34,16 @@ function Face() {
               <ul>
                 <li>
                   <a
+                    href="https://ur-aura.sharonzheng.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    UR–AURA
+                  </a>{' '}
+                  &mdash; An digital aura photo booth and in-person experience. Visit a pop-up IRL to purchase your aura photo and companion guidebook
+                </li>
+                <li>
+                  <a
                     href="https://www.instagram.com/sharon/p/C3buCtirDOl/?img_index=1"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -108,8 +118,8 @@ function Face() {
                   &mdash; Photo gallery of a small omakase experience in Toronto
                 </li>
                 <li>
-                  <sup>SOON!</sup>
-                  <span className="secret-link">UR–AURA</span> &mdash; Your energy, colorized
+                  <sup>WIP</sup>
+                  <span className="secret-link">Aiphabet</span> &mdash; Print-at-home zine
                 </li>
               </ul>
             </article>
@@ -122,6 +132,17 @@ function Face() {
 
           <article>
             <ul>
+              <li>
+                <sup>2024</sup>
+                <a
+                  href="https://imscared.sharonzheng.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Mom Come Pick Me Up, I'm Scared
+                </a>{' '}
+                &mdash; A tool to visualize your crowd at a public speaking event
+              </li>
               <li>
                 <sup>2023</sup>
                 <a
@@ -252,7 +273,21 @@ function Face() {
           <section>
             <article>
               <ul>
-                <li><sup>NEW!</sup>
+              <li>
+                  September 7, 2024 &mdash; UR-AURA Pop-up at <a
+                    href="https://bazaartoronto.ca/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >BAZAAR Toronto</a>
+                </li>
+                <li>
+                  September 1, 2024 &mdash; Sharon Zine at <a
+                    href="https://www.imempowa.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >San Francisco Zine Festival</a>
+                </li>
+                <li>
                   August 24, 2024 &mdash; The Intersection of Art and Technology with <a
                     href="https://www.imempowa.com/"
                     target="_blank"
