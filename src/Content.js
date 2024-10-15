@@ -44,7 +44,7 @@ function Face() {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/sharon/p/C3buCtirDOl/?img_index=1"
+                    href="https://www.printedmatter.org/catalog/publisher/17545"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
