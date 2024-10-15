@@ -1,9 +1,9 @@
 # this is real, this is me
 
 ### Project Archive
-- [2024] Aiphabet — A free, printable zine inspired by the idea that the word "alphabet" looks like it starts with the letters "AI"
-- [2024] Mom Come Pick Me Up, I'm Scared — A tool to visualize your crowd at a public speaking event
-- [2024] UR-AURA — An digital aura photo booth and in-person experience. Visit a pop-up IRL to purchase your aura photo and companion guidebook
+- [2024] [Aiphabet](https://aiphabet.sharonzheng.com/) — A free, printable zine inspired by the idea that the word "alphabet" looks like it starts with the letters "AI"
+- [2024] [Mom Come Pick Me Up, I'm Scared](https://imscared.sharonzheng.com/) — A tool to visualize your crowd at a public speaking event
+- [2024] [UR-AURA](https://ur-aura.sharonzheng.com/) — An digital aura photo booth and in-person experience. Visit a pop-up IRL to purchase your aura photo and companion guidebook
 - [2024] [How to Play Mahjong](https://www.printedmatter.org/catalog/66248) — An instruction manual about the traditional Chinese game of Mahjong as taught to me by my family. Limited edition stickers available [here](https://sharonxsherman.myshopify.com)
 - [2023] [Pokémon Eat](https://pokemon-eat.vercel.app/) — Meal planning for Snorlax using your ingredients in Pokémon Sleep. Offline mode available
 - [2023] [Yeet Hay or Yeet Nay?](https://sharonzheng.com/yeet-hay) — Bringing analog to digital in a new zine reading format. I designed it in Toronto, riso-printed in Seattle, shot in San Francisco
