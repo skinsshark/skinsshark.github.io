@@ -117,10 +117,6 @@ function Face() {
                   </a>{' '}
                   &mdash; Photo gallery of a small omakase experience in Toronto
                 </li>
-                <li>
-                  <sup>WIP</sup>
-                  <span className="secret-link">Aiphabet</span> &mdash; Print-at-home zine
-                </li>
               </ul>
             </article>
           </section>
@@ -132,6 +128,17 @@ function Face() {
 
           <article>
             <ul>
+              <li>
+                <sup>2024</sup>
+                <a
+                  href="https://aiphabet.sharonzheng.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Aiphabet
+                </a>{' '}
+                &mdash; Free, printable zine created using Stable Diffusion
+              </li>
               <li>
                 <sup>2024</sup>
                 <a
@@ -273,7 +280,14 @@ function Face() {
           <section>
             <article>
               <ul>
-              <li>
+                <li>
+                  November 8, 2024 &mdash; Pop-up at <a
+                    href="https://thethirdplace.is/event/november-waverly-block-party-1"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >On Waverly Block Party</a> in Chinatown
+                </li>
+                <li>
                   September 7, 2024 &mdash; UR-AURA Pop-up at <a
                     href="https://bazaartoronto.ca/"
                     target="_blank"
