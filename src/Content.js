@@ -11,8 +11,9 @@ function Face() {
         <article>
           <ul>
             <li>
-              Creative Technologist — Making art in the digital and print worlds
+              Design Engineer — Looking for a new job!
             </li>
+
             <li>sharzheng@gmail.com</li>
             <li>
               <a
@@ -120,6 +121,33 @@ function Face() {
               </ul>
             </article>
           </section>
+        </section>
+
+        <section>
+          <h2>Work Experience</h2>
+          <hr />
+
+          <article>
+            <ul className="tight">
+              <li>
+                <sup>2023</sup>
+                Magical Tome, San Francisco &mdash; <i>Front End Engineer</i>
+              </li>
+              <li>
+                <sup>2018</sup>
+                Meta, San Francisco/New York/London &mdash;{' '}
+                <i>Front End Engineer</i>
+              </li>
+              <li>
+                <sup>2018</sup>
+                Lyft, Seattle &mdash; <i>Software Engineer Intern</i>
+              </li>
+              <li>
+                <sup>2017</sup>
+                Apple, Sunnyvale &mdash; <i>Software Engineer Intern</i>
+              </li>
+            </ul>
+          </article>
         </section>
 
         <section>
@@ -281,11 +309,11 @@ function Face() {
             <article>
               <ul>
                 <li>
-                  November 8, 2024 &mdash; Pop-up at <a
+                  November 8, 2024 &mdash; Sharon Zine at <a
                     href="https://thethirdplace.is/event/november-waverly-block-party-1"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >On Waverly Block Party</a> in Chinatown
+                  >Waverly Block Party</a> in SF Chinatown
                 </li>
                 <li>
                   September 7, 2024 &mdash; UR-AURA Pop-up at <a
@@ -302,11 +330,11 @@ function Face() {
                   >San Francisco Zine Festival</a>
                 </li>
                 <li>
-                  August 24, 2024 &mdash; The Intersection of Art and Technology with <a
-                    href="https://www.imempowa.com/"
+                  August 24, 2024 &mdash; Hosted <a
+                    href="https://lu.ma/aa05swp5"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >Ash Herr</a> at <a
+                  >The Intersection of Art and Technology</a> at <a
                     href="https://www.archive.org/"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -383,33 +411,6 @@ function Face() {
         </section>
 
         <section>
-          <h2>Work Experience</h2>
-          <hr />
-
-          <article>
-            <ul className="tight">
-              <li>
-                <sup>2023</sup>
-                Magical Tome, San Francisco &mdash; <i>Front End Engineer</i>
-              </li>
-              <li>
-                <sup>2018</sup>
-                Meta, San Francisco/New York/London &mdash;{' '}
-                <i>Front End Engineer</i>
-              </li>
-              <li>
-                <sup>2018</sup>
-                Lyft, Seattle &mdash; <i>Software Engineer Intern</i>
-              </li>
-              <li>
-                <sup>2017</sup>
-                Apple, Sunnyvale &mdash; <i>Software Engineer Intern</i>
-              </li>
-            </ul>
-          </article>
-        </section>
-
-        <section>
           <h2>Education</h2>
           <hr />
 
@@ -447,7 +448,7 @@ function Face() {
                 >
                   Letterboxd
                 </a>
-                , running for utility but not for fun, trying to guess your
+                , running for utility but not for fun, playing Just Dance on Wii, trying to guess your
                 zodiac sign, furniture shopping, white tea, and black coffee
               </p>
             </div>
@@ -481,16 +482,6 @@ function Face() {
               >
                 LinkedIn
               </a>
-            </li>
-            <li>
-              <a
-                href="https://drive.google.com/file/d/1jtW0F_e-e2bxj-aX2VfaW-6sCopHl2_X/view"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Resume
-              </a>{' '}
-              (Last Updated: July 2023)
             </li>
           </ul>
         </footer>
