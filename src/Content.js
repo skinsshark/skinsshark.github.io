@@ -11,7 +11,7 @@ function Face() {
         <article>
           <ul>
             <li>
-              Design Engineer/Creative Technologist — Making art in the digital and print worlds
+              Creative Technologist — Making art in the digital and print worlds
             </li>
 
             <li>sharzheng@gmail.com</li>
