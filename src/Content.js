@@ -130,6 +130,14 @@ function Face() {
           <article>
             <ul className="tight">
               <li>
+                <sup>2025</sup>
+                <a
+                  href="https://gamma.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Gamma</a>, San Francisco &mdash; <i>Design Engineer</i>
+              </li>
+              <li>
                 <sup>2023</sup>
                 Magical Tome, San Francisco &mdash; <i>Front End Engineer</i>
               </li>
@@ -308,6 +316,21 @@ function Face() {
           <section>
             <article>
               <ul>
+                <li>
+                  <sup>NEW!</sup>
+                  May 10-11, 2025 &mdash; Sharon Zine at <a
+                    href="https://www.instagram.com/p/DIUBZ1Nugpt/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Basilica Farm & Flea</a> in Upstate NY
+                </li>
+                <li>
+                  February 1, 2025 &mdash; UR-AURA at <a
+                    href="https://www.eventbrite.com/e/neo-lunar-lunar-new-year-reimagined-tickets-1124707453269?aff=vendors"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Neo Lunar: LNY Reimagined</a> in Oakland
+                </li>
                 <li>
                   November 8, 2024 &mdash; Sharon Zine at <a
                     href="https://thethirdplace.is/event/november-waverly-block-party-1"
