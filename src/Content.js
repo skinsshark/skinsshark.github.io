@@ -318,6 +318,13 @@ function Face() {
               <ul>
                 <li>
                   <sup>NEW!</sup>
+                  June 14, 2025 &mdash; UR-AURA at <a
+                    href="https://www.bigwestwinefest.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Big West Wine Fest</a> in Guerneville, CA
+                </li>
+                <li>
                   May 10-11, 2025 &mdash; Sharon Zine at <a
                     href="https://www.instagram.com/p/DIUBZ1Nugpt/"
                     target="_blank"
