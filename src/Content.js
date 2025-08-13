@@ -34,6 +34,24 @@ function Face() {
             <article>
               <ul>
                 <li>
+                  <sup>WIP</sup>
+                  <a
+                    href="https://sushiaipod.vercel.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    ai爱pod
+                  </a>{' '}
+                  &mdash; Photo gallery inspired by the iPod Classic, featuring the{' '}
+                  <a 
+                    href="https://www.sushiai-rwc.com/" 
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Sushi Ai
+                  </a>{' '}omakase experience in Redwood City
+                </li>
+                <li>
                   <a
                     href="https://ur-aura.sharonzheng.com/"
                     target="_blank"
@@ -107,16 +125,6 @@ function Face() {
                   </a>{' '}
                   &mdash; Commemorating my college experience with a list of
                   favorite places around town
-                </li>
-                <li>
-                  <a
-                    href="https://skinsshark.github.io/tachi"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Tachi
-                  </a>{' '}
-                  &mdash; Photo gallery of a small omakase experience in Toronto
                 </li>
               </ul>
             </article>
@@ -209,6 +217,17 @@ function Face() {
                 </a>{' '}
                 &mdash; Easy-to-add script for your website so we can get the
                 internet to social distance too
+              </li>
+              <li>
+                <sup>2019</sup>
+                <a
+                  href="https://skinsshark.github.io/tachi"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Tachi
+                </a>{' '}
+                &mdash; Photo gallery of a small omakase experience in Toronto
               </li>
               <li>
                 <sup>2019</sup>
