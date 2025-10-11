@@ -139,11 +139,7 @@ function Face() {
             <ul className="tight">
               <li>
                 <sup>2025</sup>
-                <a
-                  href="https://gamma.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >Gamma</a>, San Francisco &mdash; <i>Design Engineer</i>
+                Gamma, San Francisco &mdash; <i>Design Engineer</i>
               </li>
               <li>
                 <sup>2023</sup>
@@ -336,7 +332,21 @@ function Face() {
             <article>
               <ul>
                 <li>
-                  <sup>NEW!</sup>
+                <sup>NEW!</sup>
+                  December 19-21, 2025 &mdash; Sharon Zine at <a
+                    href="https://tokyoartbookfair.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Tokyo Art Book Fair</a>
+                </li>
+                <li>
+                  September 25, 2025 &mdash; Sharon Zine at <a
+                    href="https://adobe.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Adobe</a> Employee Marketplace
+                </li>
+                <li>
                   June 14, 2025 &mdash; UR-AURA at <a
                     href="https://www.bigwestwinefest.com/"
                     target="_blank"
@@ -373,7 +383,7 @@ function Face() {
                 </li>
                 <li>
                   September 1, 2024 &mdash; Sharon Zine at <a
-                    href="https://www.imempowa.com/"
+                    href="https://sfzinefest.org.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >San Francisco Zine Festival</a>
@@ -425,6 +435,13 @@ function Face() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >Catharine Clark Gallery</a>
+                </li>
+                <li>
+                  May 7, 2024 &mdash; Sharon Zine at <a
+                    href="https://adobe.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >Adobe</a> Employee Marketplace
                 </li>
                 <li>
                   May 4, 2024 &mdash; Community Mahjong + Guide Restock at <a
