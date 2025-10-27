@@ -34,7 +34,6 @@ function Face() {
             <article>
               <ul>
                 <li>
-                  <sup>WIP</sup>
                   <a
                     href="https://sushiaipod.vercel.app/"
                     target="_blank"
