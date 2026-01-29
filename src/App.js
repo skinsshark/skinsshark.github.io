@@ -1,6 +1,7 @@
 import React, {useEffect} from 'react';
 
 import Content from './Content';
+import styles from './App.module.css';
 
 function calcValues() {
   const centerContent = document.getElementById('center-content');
@@ -10,7 +11,7 @@ function calcValues() {
 
   document.body.style.height = overflowHeight + window.innerHeight + 'px';
   const foldsContent = Array.from(
-    document.getElementsByClassName('fold-content'),
+    document.querySelectorAll('[data-fold-content="true"]'),
   );
   const tick = () => {
     const scroll = -(
@@ -32,25 +33,25 @@ function App() {
   }, []);
 
   return (
-    <div className="all">
-      <div className="wrapper-3d">
-        <div className="fold fold-top">
-          <div className="fold-align">
-            <div className="fold-content">
+    <div className={styles.all}>
+      <div className={styles.wrapper3d}>
+        <div className={`${styles.fold} ${styles.foldTop}`}>
+          <div className={styles.foldAlign}>
+            <div data-fold-content="true">
               <Content />
             </div>
           </div>
         </div>
-        <div className="fold fold-center" id="center-fold">
-          <div className="fold-align">
-            <div className="fold-content" id="center-content">
+        <div className={styles.fold} id="center-fold">
+          <div className={styles.foldAlign}>
+            <div data-fold-content="true" id="center-content">
               <Content />
             </div>
           </div>
         </div>
-        <div className="fold fold-bottom">
-          <div className="fold-align">
-            <div className="fold-content">
+        <div className={`${styles.fold} ${styles.foldBottom}`}>
+          <div className={styles.foldAlign}>
+            <div data-fold-content="true">
               <Content />
             </div>
           </div>

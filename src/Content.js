@@ -1,4 +1,5 @@
 import * as React from 'react';
+import styles from './Content.module.css';
 
 function Face() {
   return (
@@ -7,7 +8,7 @@ function Face() {
         <h1>Sharon Zheng</h1>
       </header>
 
-      <div className="container">
+      <div className={styles.container}>
         <article>
           <ul>
             <li>
@@ -135,7 +136,7 @@ function Face() {
           <hr />
 
           <article>
-            <ul className="tight">
+            <ul className={styles.tight}>
               <li>
                 <sup>2025</sup>
                 Gamma, San Francisco &mdash; <i>Design Engineer</i>
