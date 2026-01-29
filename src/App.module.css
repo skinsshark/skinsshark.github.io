@@ -1,0 +1,78 @@
+.all {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.wrapper3d {
+  position: relative;
+  /* Based on screen with so the perspective doesn't break on small sizes*/
+  perspective: 20vw;
+  transform-style: preserve-3d;
+}
+
+.fold {
+  overflow: hidden;
+  width: 80vw;
+  height: 80vh;
+}
+
+@media only screen and (max-width: 767px) {
+  .fold {
+    height: 80vh;
+  }
+}
+
+.foldAfter {
+  position: absolute;
+  transform-origin: top center;
+  right: 0;
+  left: 0;
+  top: 100%;
+}
+
+.foldBefore {
+  position: absolute;
+  transform-origin: bottom center;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+}
+
+.foldAlign {
+  width: 100%;
+  height: 100%;
+}
+
+.foldBottom .foldAlign {
+  transform: translateY(-100%);
+}
+
+.foldTop .foldAlign {
+  transform: translateY(100%);
+}
+
+.foldBottom {
+  transform-origin: top center;
+  transform: rotateX(90deg);
+}
+
+.foldTop {
+  transform-origin: bottom center;
+  transform: rotateX(-90deg);
+}
+
+@media only screen and (max-width: 767px) {
+  .foldBottom {
+    transform: rotateX(140deg);
+  }
+
+  .foldTop {
+    transform: rotateX(-140deg);
+  }
+}
