@@ -1,3 +1,76 @@
+body {
+  overflow: hidden;
+}
+
+.sitedown {
+  padding: 40px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  color: #222;
+  z-index: 6213110935;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: clamp(0.5em, 1em, 2em);
+  gap: 30dvh;
+
+  .header {
+    text-align: center;
+  }
+
+  .title,
+  .subtitle {
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 0.8;
+  }
+
+  .title {
+    font-size: clamp(1.2em, 2em, 3em);
+  }
+
+  .subtitle {
+    font-size: clamp(2.2em, 4em, 5em);
+  }
+}
+
+.marquee {
+  width: 100%;
+  overflow: hidden;
+  text-transform: uppercase;
+}
+
+.track {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+.marqueeText {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .track {
+    animation: none;
+  }
+}
+
 .all {
   position: fixed;
   top: 0;
