@@ -42,14 +42,16 @@ function Face() {
                   >
                     ai爱pod
                   </a>{' '}
-                  &mdash; Photo gallery inspired by the iPod Classic, featuring the{' '}
-                  <a 
-                    href="https://www.sushiai-rwc.com/" 
+                  &mdash; Photo gallery inspired by the iPod Classic, featuring
+                  the{' '}
+                  <a
+                    href="https://www.sushiai-rwc.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     Sushi Ai
-                  </a>{' '}omakase experience in Redwood City
+                  </a>{' '}
+                  omakase experience in Redwood City
                 </li>
                 <li>
                   <a
@@ -59,7 +61,9 @@ function Face() {
                   >
                     UR–AURA
                   </a>{' '}
-                  &mdash; An digital aura photo booth and in-person experience. Visit a pop-up IRL to purchase your aura photo and companion guidebook
+                  &mdash; An digital aura photo booth and in-person experience.
+                  Visit a pop-up IRL to purchase your aura photo and companion
+                  guidebook
                 </li>
                 <li>
                   <a
@@ -79,7 +83,8 @@ function Face() {
                   >
                     San Francisco Design Week
                   </a>
-                  . Limited edition stickers available <a
+                  . Limited edition stickers available{' '}
+                  <a
                     href="https://sharonxsherman.myshopify.com/"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -188,7 +193,8 @@ function Face() {
                 >
                   Mom Come Pick Me Up, I'm Scared
                 </a>{' '}
-                &mdash; A tool to visualize your crowd at a public speaking event
+                &mdash; A tool to visualize your crowd at a public speaking
+                event
               </li>
               <li>
                 <sup>2023</sup>
@@ -332,147 +338,74 @@ function Face() {
             <article>
               <ul>
                 <li>
-                <sup>NEW!</sup>
-                  December 19-21, 2025 &mdash; Sharon Zine at <a
+                  December 19-21, 2025 &mdash; Sharon Zine at{' '}
+                  <a
                     href="https://tokyoartbookfair.com/"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >Tokyo Art Book Fair</a>
+                  >
+                    Tokyo Art Book Fair
+                  </a>
                 </li>
                 <li>
-                  September 25, 2025 &mdash; Sharon Zine at <a
+                  September 25, 2025 &mdash; Sharon Zine at{' '}
+                  <a
                     href="https://adobe.com/"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >Adobe</a> Employee Marketplace
+                  >
+                    Adobe
+                  </a>{' '}
+                  AAPI Marketplace
                 </li>
                 <li>
-                  June 14, 2025 &mdash; UR-AURA at <a
+                  June 14, 2025 &mdash; UR-AURA at{' '}
+                  <a
                     href="https://www.bigwestwinefest.com/"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >Big West Wine Fest</a> in Guerneville, CA
+                  >
+                    Big West Wine Fest
+                  </a>{' '}
+                  in Guerneville, CA
                 </li>
                 <li>
-                  May 10-11, 2025 &mdash; Sharon Zine at <a
+                  May 10-11, 2025 &mdash; Sharon Zine at{' '}
+                  <a
                     href="https://www.instagram.com/p/DIUBZ1Nugpt/"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >Basilica Farm & Flea</a> in Upstate NY
+                  >
+                    Basilica Farm & Flea
+                  </a>{' '}
+                  in Upstate NY
                 </li>
                 <li>
-                  February 1, 2025 &mdash; UR-AURA at <a
+                  February 1, 2025 &mdash; UR-AURA at{' '}
+                  <a
                     href="https://www.eventbrite.com/e/neo-lunar-lunar-new-year-reimagined-tickets-1124707453269?aff=vendors"
                     target="_blank"
                     rel="noopener noreferrer"
-                  >Neo Lunar: LNY Reimagined</a> in Oakland
-                </li>
-                <li>
-                  November 8, 2024 &mdash; Sharon Zine at <a
-                    href="https://thethirdplace.is/event/november-waverly-block-party-1"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Waverly Block Party</a> in SF Chinatown
-                </li>
-                <li>
-                  September 7, 2024 &mdash; UR-AURA Pop-up at <a
-                    href="https://bazaartoronto.ca/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >BAZAAR Toronto</a>
-                </li>
-                <li>
-                  September 1, 2024 &mdash; Sharon Zine at <a
-                    href="https://sfzinefest.org.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >San Francisco Zine Festival</a>
-                </li>
-                <li>
-                  August 24, 2024 &mdash; Hosted <a
-                    href="https://lu.ma/aa05swp5"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >The Intersection of Art and Technology</a> at <a
-                    href="https://www.archive.org/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Internet Archive</a>
-                </li>
-                <li>
-                  July 29, 2024 &mdash; Mahj' & Collage with <a
-                    href="https://instagram.com/ourmutualfriendsf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Our Mutual Friend SF</a> and <a
-                    href="https://www.themahjongproject.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >The Mahjong Project</a> at <a
-                    href="https://shop.sportsbasement.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Sports Basement</a>
-                </li>
-                <li>
-                  July 20, 2024 &mdash; UR–AURA Launch Event at <a
-                    href="https://www.dogpatchhub.org/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >The Dogpatch Hub</a> with <a
-                    href="https://sfartbookfair.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >SF Art Book Fair</a>
-                </li>
-                <li>
-                  June 8, 2024 &mdash; MAHJONG: The Intersections of Tradition, Community, and Craft for <a
-                    href="https://sfdesignweek.org/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >SF Design Week</a> at <a
-                    href="https://cclarkgallery.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Catharine Clark Gallery</a>
-                </li>
-                <li>
-                  May 7, 2024 &mdash; Sharon Zine at <a
-                    href="https://adobe.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Adobe</a> Employee Marketplace
-                </li>
-                <li>
-                  May 4, 2024 &mdash; Community Mahjong + Guide Restock at <a
-                    href="https://www.shopnikoniko.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Nikoniko Gifts</a>
-                </li>
-                <li>
-                  March 28, 2024 &mdash; Mahjong Night at <a
-                    href="https://landtoseanyc.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Land to Sea NYC</a>
-                </li>
-                <li>
-                  March 23, 2024 &mdash; Mahjong Night in Chinatown with <a
-                    href="https://www.instagram.com/unit.270/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Unit 270</a> in Toronto
-                </li>
-                <li>
-                  March 10, 2024 &mdash; Mahjong Afternoon at <a
-                    href="https://gardencreamery.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >Garden Creamery</a>
+                  >
+                    Neo Lunar: LNY Reimagined
+                  </a>{' '}
+                  in Oakland
                 </li>
               </ul>
             </article>
+
+            <div>
+              <p>
+                Full list available on{' '}
+                <a
+                  href="https://github.com/skinsshark/skinsshark.github.io/blob/master/EVENTS.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+              </p>
+            </div>
           </section>
         </section>
 
@@ -514,8 +447,9 @@ function Face() {
                 >
                   Letterboxd
                 </a>
-                , running for utility but not for fun, playing Just Dance on Wii, trying to guess your
-                zodiac sign, furniture shopping, white tea, and black coffee
+                , running for utility but not for fun, playing Just Dance on
+                Wii, trying to guess your zodiac sign, furniture shopping, white
+                tea, and black coffee
               </p>
             </div>
           </article>

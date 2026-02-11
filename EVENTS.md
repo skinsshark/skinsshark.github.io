@@ -1,0 +1,17 @@
+- (December 19–21, 2025) Sharon Zine at [Tokyo Art Book Fair](https://tokyoartbookfair.com/)
+- (September 25, 2025) Sharon Zine at [Adobe](https://adobe.com/) AAPI Marketplace
+- (June 14, 2025) UR-AURA at [Big West Wine Fest](https://www.bigwestwinefest.com/) in Guerneville, CA
+- (May 10–11, 2025) Sharon Zine at [Basilica Farm & Flea](https://www.instagram.com/p/DIUBZ1Nugpt/) in Upstate NY
+- (February 1, 2025) UR-AURA at [Neo Lunar: LNY Reimagined](https://www.eventbrite.com/e/neo-lunar-lunar-new-year-reimagined-tickets-1124707453269?aff=vendors) in Oakland
+- (November 8, 2024) Sharon Zine at [Waverly Block Party](https://thethirdplace.is/event/november-waverly-block-party-1) in SF Chinatown
+- (September 7, 2024) UR-AURA Pop-up at [BAZAAR Toronto](https://bazaartoronto.ca/)
+- (September 1, 2024) Sharon Zine at [San Francisco Zine Festival](https://sfzinefest.org.com/)
+- (August 24, 2024) Hosted [The Intersection of Art and Technology](https://lu.ma/aa05swp5) at [Internet Archive](https://www.archive.org/)
+- (July 29, 2024) Mahj' & Collage with [Our Mutual Friend SF](https://instagram.com/ourmutualfriendsf) and [The Mahjong Project](https://www.themahjongproject.com/) at [Sports Basement](https://shop.sportsbasement.com/)
+- (July 20, 2024) UR–AURA Launch Event at [The Dogpatch Hub](https://www.dogpatchhub.org/) with [SF Art Book Fair](https://sfartbookfair.com/)
+- (June 8, 2024) MAHJONG: The Intersections of Tradition, Community, and Craft for [SF Design Week](https://sfdesignweek.org/) at [Catharine Clark Gallery](https://cclarkgallery.com/)
+- (May 7, 2024) Sharon Zine at [Adobe](https://adobe.com/) Employee Marketplace
+- (May 4, 2024) Community Mahjong + Guide Restock at [Nikoniko Gifts](https://www.shopnikoniko.com/)
+- (March 28, 2024) Mahjong Night at [Land to Sea NYC](https://landtoseanyc.com/)
+- (March 23, 2024) Mahjong Night in Chinatown with [Unit 270](https://www.instagram.com/unit.270/) in Toronto
+- (March 10, 2024) Mahjong Afternoon at [Garden Creamery](https://gardencreamery.com)
