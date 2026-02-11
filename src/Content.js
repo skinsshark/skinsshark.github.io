@@ -176,7 +176,7 @@ function Face() {
               <li>
                 <sup>2024</sup>
                 <a
-                  href="https://aiphabet.sharonzheng.com/"
+                  href="https://sharon.metalabel.com/aiphabet"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
