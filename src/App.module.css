@@ -76,3 +76,34 @@
     transform: rotateX(-140deg);
   }
 }
+
+@media print {
+  .all {
+    position: static;
+    display: block;
+    width: auto;
+    height: auto;
+    align-items: normal;
+    justify-content: normal;
+  }
+
+  .wrapper3d {
+    perspective: none;
+    transform: none;
+  }
+
+  .foldTop,
+  .foldBottom {
+    display: none;
+  }
+
+  .fold {
+    width: auto;
+    height: auto;
+    overflow: visible;
+  }
+
+  [data-fold-content='true'] {
+    transform: none !important;
+  }
+}
