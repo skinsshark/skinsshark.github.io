@@ -296,6 +296,13 @@ function Face() {
               <article>
                 <ul>
                   <li>
+                    February 7, 2026 &mdash;{' '}
+                    <a href="https://grayarea.org/course/workshop-lunar-new-year-ascii-art/">
+                      DIY Lunar New Year ASCII Art Workshop
+                    </a>{' '}
+                    at Gray Area
+                  </li>
+                  <li>
                     December 19-21, 2025 &mdash; Sharon Zine at{' '}
                     <a
                       href="https://tokyoartbookfair.com/"

@@ -1,3 +1,4 @@
+- (February 7, 2026) [DIY Lunar New Year ASCII Art Workshop](https://grayarea.org/course/workshop-lunar-new-year-ascii-art/) at [Gray Area](https://grayarea.org/)
 - (December 19–21, 2025) Sharon Zine at [Tokyo Art Book Fair](https://tokyoartbookfair.com/)
 - (September 25, 2025) Sharon Zine at [Adobe](https://adobe.com/) AAPI Marketplace
 - (June 14, 2025) UR-AURA at [Big West Wine Fest](https://www.bigwestwinefest.com/) in Guerneville, CA
