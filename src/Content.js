@@ -148,7 +148,7 @@ function Face() {
           </section>
 
           <section>
-            <h2>Archive</h2>
+            <h2>More Projects</h2>
             <hr />
 
             <article>
@@ -297,10 +297,22 @@ function Face() {
                 <ul>
                   <li>
                     February 7, 2026 &mdash;{' '}
-                    <a href="https://grayarea.org/course/workshop-lunar-new-year-ascii-art/">
-                      DIY Lunar New Year ASCII Art Workshop
+                    <a
+                      href="https://grayarea.org/course/workshop-lunar-new-year-ascii-art/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      ASCII Art Workshop
                     </a>{' '}
-                    at Gray Area
+                    at Gray Area. View student work{' '}
+                    <a
+                      href="https://www.lunar-ascii.art/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      here
+                    </a>
+                    .
                   </li>
                   <li>
                     December 19-21, 2025 &mdash; Sharon Zine at{' '}
@@ -361,7 +373,7 @@ function Face() {
 
               <div>
                 <p>
-                  Full list available on{' '}
+                  Full event list available on{' '}
                   <a
                     href="https://github.com/skinsshark/skinsshark.github.io/blob/master/EVENTS.md"
                     target="_blank"
