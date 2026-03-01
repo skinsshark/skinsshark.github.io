@@ -44,22 +44,13 @@ function Face() {
                 <ul>
                   <li>
                     <a
-                      href="https://sushiaipod.vercel.app/"
+                      href="https://horsehabit.sharonzheng.com/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      ai爱pod
+                      Horse Habit
                     </a>{' '}
-                    &mdash; Photo gallery inspired by the iPod Classic,
-                    featuring the{' '}
-                    <a
-                      href="https://www.sushiai-rwc.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Sushi Ai
-                    </a>{' '}
-                    omakase experience in Redwood City
+                    &mdash; Original ASCII art for 2026, the Year of the Horse
                   </li>
                   <li>
                     <a
@@ -72,33 +63,6 @@ function Face() {
                     &mdash; An digital aura photo booth and in-person
                     experience. Visit a pop-up IRL to purchase your aura photo
                     and companion guidebook
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.printedmatter.org/catalog/publisher/17545"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      How to Play Mahjong
-                    </a>{' '}
-                    &mdash; An instruction manual about the traditional Chinese
-                    game of Mahjong as taught to me by my family. Hosted
-                    multiple community events, including at{' '}
-                    <a
-                      href="https://sfdesignweek.org/event/mahjong-the-intersections-of-tradition-community-and-craft"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      San Francisco Design Week
-                    </a>
-                    . Limited edition stickers available{' '}
-                    <a
-                      href="https://sharonxsherman.myshopify.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      here
-                    </a>
                   </li>
                   <li>
                     <a
@@ -120,6 +84,25 @@ function Face() {
                   </li>
                   <li>
                     <a
+                      href="https://sushiaipod.vercel.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      ai爱pod
+                    </a>{' '}
+                    &mdash; Photo gallery inspired by the iPod Classic,
+                    featuring the{' '}
+                    <a
+                      href="https://www.sushiai-rwc.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Sushi Ai
+                    </a>{' '}
+                    omakase experience in Redwood City
+                  </li>
+                  <li>
+                    <a
                       href="https://the-offisse.com/"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -127,17 +110,6 @@ function Face() {
                       The Offisse
                     </a>{' '}
                     &mdash; High-end fashion inspired by The Office (US)
-                  </li>
-                  <li>
-                    <a
-                      href="https://skinsshark.github.io/kwaterloo"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Kitchener/Waterloo
-                    </a>{' '}
-                    &mdash; Commemorating my college experience with a list of
-                    favorite places around town
                   </li>
                 </ul>
               </article>
@@ -182,6 +154,26 @@ function Face() {
             <article>
               <ul>
                 <li>
+                  <sup>2026</sup>
+                  <a
+                    href="https://gray-area-foundation.myshopify.com/collections/whole-earth-redux"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Whole Earth Redux
+                  </a>{' '}
+                  &mdash; A print publication from{' '}
+                  <a
+                    href="https://grayarea.org/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Gray Area
+                  </a>{' '}
+                  offering new perspectives on the Whole Earth Catalog, the
+                  magazine that defined California's counterculture
+                </li>
+                <li>
                   <sup>2024</sup>
                   <a
                     href="https://sharon.metalabel.com/aiphabet"
@@ -205,28 +197,44 @@ function Face() {
                   event
                 </li>
                 <li>
-                  <sup>2023</sup>
+                  <sup>2024</sup>
                   <a
-                    href="https://pokemon-eat.vercel.app"
+                    href="https://www.printedmatter.org/catalog/publisher/17545"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Pokémon Eat
+                    How to Play Mahjong
                   </a>{' '}
-                  &mdash; Meal planning for Snorlax using your ingredients in
-                  Pokemon Sleep. Offline mode available
+                  &mdash; An instruction manual about the traditional Chinese
+                  game of Mahjong as taught to me by my family. Hosted multiple
+                  community events, including at{' '}
+                  <a
+                    href="https://sfdesignweek.org/event/mahjong-the-intersections-of-tradition-community-and-craft"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    San Francisco Design Week
+                  </a>
+                  . Limited edition stickers available{' '}
+                  <a
+                    href="https://friendswith.business/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    here
+                  </a>
                 </li>
                 <li>
                   <sup>2020</sup>
                   <a
-                    href="https://social-distance-online.vercel.app"
+                    href="https://skinsshark.github.io/kwaterloo"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Social Distance This for Me
+                    Kitchener/Waterloo
                   </a>{' '}
-                  &mdash; Easy-to-add script for your website so we can get the
-                  internet to social distance too
+                  &mdash; Commemorating my college experience with a list of
+                  favorite places around town
                 </li>
                 <li>
                   <sup>2019</sup>
@@ -238,34 +246,6 @@ function Face() {
                     Tachi
                   </a>{' '}
                   &mdash; Photo gallery of a small omakase experience in Toronto
-                </li>
-                <li>
-                  <sup>2019</sup>
-                  <a
-                    href="https://skinsshark.github.io/see-attle"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Seattle
-                  </a>
-                  ,{' '}
-                  <a
-                    href="https://skinsshark.github.io/winyc"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    New York City
-                  </a>
-                  ,{' '}
-                  <a
-                    href="https://skinsshark.github.io/london-2019"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    London
-                  </a>{' '}
-                  &mdash; City guides for towns I have lived in, Bay Area
-                  edition in the works
                 </li>
                 <li>
                   <sup>2018</sup>
@@ -281,18 +261,6 @@ function Face() {
                   my dad
                 </li>
                 <li>
-                  <sup>2018</sup>
-                  <a
-                    href="https://iloveyouandyoulove.me"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    ILYYLM (I Love You, You Love Me)
-                  </a>{' '}
-                  &mdash; Valentine's Day project to send e-cards to all your
-                  lovers
-                </li>
-                <li>
                   <sup>2017</sup>
                   <a
                     href="https://github.com/skinsshark/waterflow"
@@ -303,25 +271,6 @@ function Face() {
                   </a>{' '}
                   &mdash; Chrome extension to streamline course selection at the
                   University of Waterloo
-                </li>
-                <li>
-                  <sup>2017</sup>
-                  <a
-                    href="https://sunday-desert.github.io/holiday-swim"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Holiday Swim
-                  </a>{' '}
-                  &mdash; Generated phone wallpapers featuring the fish from The
-                  Illustrated Encyclopedia of Fish launched the previous year.{' '}
-                  <a
-                    href="https://leviv.cool/projects/2022/01/30/All-I-want-for-christmas.html"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Inspired others to create fun internet experiences
-                  </a>
                 </li>
               </ul>
             </article>

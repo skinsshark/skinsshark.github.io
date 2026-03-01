@@ -1,7 +1,10 @@
 # this is real, this is me
 
 ### Project Archive
-- [2024] [Aiphabet](https://aiphabet.sharonzheng.com/) — A free, printable zine inspired by the idea that the word "alphabet" looks like it starts with the letters "AI"
+
+- [2026] [Whole Earth Redux](https://gray-area-foundation.myshopify.com/collections/whole-earth-redux) - A print publication from [Gray Area](https://grayarea.org/) offering new perspectives on the Whole Earth Catalog, the magazine that defined California's counterculture
+- [2025] [ai爱pod](https://sushiaipod.vercel.app/) — Photo gallery inspired by the iPod Classic, featuring the [Sushi Ai](https://www.sushiai-rwc.com/) omakase experience in Redwood City
+- [2024] [Aiphabet](https://sharon.metalabel.com/aiphabet) — A free, printable zine inspired by the idea that the word "alphabet" looks like it starts with the letters "AI"
 - [2024] [Mom Come Pick Me Up, I'm Scared](https://imscared.sharonzheng.com/) — A tool to visualize your crowd at a public speaking event
 - [2024] [UR-AURA](https://ur-aura.sharonzheng.com/) — An digital aura photo booth and in-person experience. Visit a pop-up IRL to purchase your aura photo and companion guidebook
 - [2024] [How to Play Mahjong](https://www.printedmatter.org/catalog/66248) — An instruction manual about the traditional Chinese game of Mahjong as taught to me by my family. Limited edition stickers available [here](https://sharonxsherman.myshopify.com)
@@ -17,7 +20,7 @@
 - [2019] DIY String Lights — How to build battery powered string lights using LEDs and other electrical components
 - [2019] [Thank You](https://sharonzheng.com/thank-you/) — Drawing my favorite shopping bags in Illustrator
 - [2018] [Blessed](https://github.com/skinsshark/Blessed) — Amazon Echo Skill where Alexa says "bless you" when you sneeze, if you tell Alexa that you sneezed
-- [2018] [ILYYLM (I Love You, You Love Me)](https://iloveyouandyoulove.me/) — Valentine's Day project to send all your lovers e-cards
+- [2018] ILYYLM (I Love You, You Love Me) — Valentine's Day project to send all your lovers e-cards
 - [2018] [Shuji](https://sharonzheng.com/shuji) — Photos of my shoes using Huji Cam and playing with loading animations
 - [2017] [Waterflow](https://github.com/skinsshark/waterflow) — Chrome extension to streamline course selection at the University of Waterloo
 - [2017] [Holiday Swim](https://sunday-desert.github.io/holiday-swim/) — Generated phone wallpapers featuring the fish from The Illustrated Encyclopedia of Fish launched the previous year. Inspired others to create fun internet experiences
