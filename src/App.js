@@ -10,6 +10,23 @@ function App() {
   const bottomContentRef = useRef(null);
 
   useEffect(() => {
+    console.log(`          |
+          |   .
+   \`.  *  |     .'      
+     \`. ._|_* .'  .     
+   . * .'   \`.  *       Hit print
+-------|     |-------   (ctrl/cmd + p)
+   .  *\`.___.' *  .     for a fun
+      .'  |* \`.  *      surprise～
+    .' *  |  . \`.
+        . |
+          | 
+
+      
+      `);
+  }, []);
+
+  useEffect(() => {
     const centerContent = centerContentRef.current;
     const centerFold = centerFoldRef.current;
     const foldsContent = [
@@ -26,12 +43,17 @@ function App() {
     let rafId;
 
     const updateBodyHeight = () => {
-      const overflowHeight = centerContent.clientHeight - centerFold.clientHeight;
+      const overflowHeight =
+        centerContent.clientHeight - centerFold.clientHeight;
       document.body.style.height = `${overflowHeight + window.innerHeight}px`;
     };
 
     const tick = () => {
-      const scroll = -(window.scrollY || document.documentElement.scrollTop || 0);
+      const scroll = -(
+        window.scrollY ||
+        document.documentElement.scrollTop ||
+        0
+      );
       foldsContent.forEach((content) => {
         content.style.transform = `translateY(${scroll}px)`;
       });
@@ -67,7 +89,11 @@ function App() {
         </div>
         <div className={styles.fold} id="center-fold" ref={centerFoldRef}>
           <div className={styles.foldAlign}>
-            <div data-fold-content="true" id="center-content" ref={centerContentRef}>
+            <div
+              data-fold-content="true"
+              id="center-content"
+              ref={centerContentRef}
+            >
               <Content />
             </div>
           </div>
