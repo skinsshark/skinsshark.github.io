@@ -1,3 +1,4 @@
+- (May 9, 2026) [Dream Models](https://luma.com/3c7tytnl) with [Titles](https://titles.xyz) at Gray Area
 - (February 7, 2026) [DIY Lunar New Year ASCII Art Workshop](https://grayarea.org/course/workshop-lunar-new-year-ascii-art/) at [Gray Area](https://grayarea.org/)
 - (December 19–21, 2025) Sharon Zine at [Tokyo Art Book Fair](https://tokyoartbookfair.com/)
 - (September 25, 2025) Sharon Zine at [Adobe](https://adobe.com/) AAPI Marketplace

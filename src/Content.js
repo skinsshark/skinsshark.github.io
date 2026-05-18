@@ -44,6 +44,35 @@ function Face() {
                 <ul>
                   <li>
                     <a
+                      href="https://titles.xyz/model/0af58d66-15d0-48ed-a973-375fb55d0642"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Memory Palace
+                    </a>{' '}
+                    &mdash; A new world built from play, memory, and nostalgia
+                  </li>
+                  <li>
+                    <a
+                      href="https://gray-area-foundation.myshopify.com/collections/whole-earth-redux"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Whole Earth Redux
+                    </a>{' '}
+                    &mdash; A print publication from{' '}
+                    <a
+                      href="https://grayarea.org/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Gray Area
+                    </a>{' '}
+                    offering new perspectives on the Whole Earth Catalog, the
+                    magazine that defined California's counterculture
+                  </li>
+                  <li>
+                    <a
                       href="https://horsehabit.sharonzheng.com/"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -81,25 +110,6 @@ function Face() {
                     >
                       Printed Matter
                     </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://sushiaipod.vercel.app/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      ai爱pod
-                    </a>{' '}
-                    &mdash; Photo gallery inspired by the iPod Classic,
-                    featuring the{' '}
-                    <a
-                      href="https://www.sushiai-rwc.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Sushi Ai
-                    </a>{' '}
-                    omakase experience in Redwood City
                   </li>
                   <li>
                     <a
@@ -154,24 +164,24 @@ function Face() {
             <article>
               <ul>
                 <li>
-                  <sup>2026</sup>
+                  <sup>2025</sup>
                   <a
-                    href="https://gray-area-foundation.myshopify.com/collections/whole-earth-redux"
+                    href="https://sushiaipod.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Whole Earth Redux
+                    ai爱pod
                   </a>{' '}
-                  &mdash; A print publication from{' '}
+                  &mdash; Photo gallery inspired by the iPod Classic, featuring
+                  the{' '}
                   <a
-                    href="https://grayarea.org/"
+                    href="https://www.sushiai-rwc.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Gray Area
+                    Sushi Ai
                   </a>{' '}
-                  offering new perspectives on the Whole Earth Catalog, the
-                  magazine that defined California's counterculture
+                  omakase experience in Redwood City
                 </li>
                 <li>
                   <sup>2024</sup>
@@ -296,6 +306,25 @@ function Face() {
               <article>
                 <ul>
                   <li>
+                    May 9, 2026 &mdash; Presenting at{' '}
+                    <a
+                      href="https://luma.com/3c7tytnl"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Dream Models
+                    </a>{' '}
+                    with{' '}
+                    <a
+                      href="https://titles.xyz/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      TITLES
+                    </a>{' '}
+                    in San Francisco
+                  </li>
+                  <li>
                     February 7, 2026 &mdash;{' '}
                     <a
                       href="https://grayarea.org/course/workshop-lunar-new-year-ascii-art/"
@@ -411,11 +440,11 @@ function Face() {
                   Visiting contemporary art museums, volunteering around the
                   city (currently at{' '}
                   <a
-                    href="http://www.adobebooks.com/"
+                    href="http://www.sffilm.org/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Adobe Books
+                    SFFilm
                   </a>
                   ), giving generous ratings on{' '}
                   <a
