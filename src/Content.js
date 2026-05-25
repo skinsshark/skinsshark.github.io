@@ -50,7 +50,15 @@ function Face() {
                     >
                       Memory Palace
                     </a>{' '}
-                    &mdash; A new world built from play, memory, and nostalgia
+                    &mdash; A new world built from play, memory, and nostalgia.
+                    Learn more about the process{' '}
+                    <a
+                      href="https://youtu.be/K6kFUDSDZs4"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      here
+                    </a>
                   </li>
                   <li>
                     <a
@@ -322,7 +330,15 @@ function Face() {
                     >
                       TITLES
                     </a>{' '}
-                    in San Francisco
+                    in San Francisco. Watch the talk{' '}
+                    <a
+                      href="https://youtu.be/K6kFUDSDZs4"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      here
+                    </a>
+                    .
                   </li>
                   <li>
                     February 7, 2026 &mdash;{' '}
