@@ -44,21 +44,13 @@ function Face() {
                 <ul>
                   <li>
                     <a
-                      href="https://titles.xyz/model/0af58d66-15d0-48ed-a973-375fb55d0642"
+                      href="https://sharonzheng.com/memorypalace"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       Memory Palace
                     </a>{' '}
-                    &mdash; A new world built from play, memory, and nostalgia.
-                    Learn more about the process{' '}
-                    <a
-                      href="https://youtu.be/K6kFUDSDZs4"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      here
-                    </a>
+                    &mdash; A new world built from play, memory, and nostalgia
                   </li>
                   <li>
                     <a
@@ -330,15 +322,14 @@ function Face() {
                     >
                       TITLES
                     </a>{' '}
-                    in San Francisco. Watch the talk{' '}
+                    in San Francisco.{' '}
                     <a
-                      href="https://youtu.be/K6kFUDSDZs4"
+                      href="https://sharonzheng.com/memorypalace"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      here
+                      Learn more
                     </a>
-                    .
                   </li>
                   <li>
                     February 7, 2026 &mdash;{' '}
@@ -357,7 +348,6 @@ function Face() {
                     >
                       here
                     </a>
-                    .
                   </li>
                   <li>
                     December 19-21, 2025 &mdash; Sharon Zine at{' '}
